@@ -1,0 +1,866 @@
+Date	Transaction	Amount	Name	Memo
+1/1/2021	ATM	102.99	Withdrawal - ABM - DEPANNEUR BJ 	DEPANNEUR BJ MONTREAL  QC  CA
+1/1/2021	FEE	1.5	Interac Network Usage Charge	ABM Fee
+1/3/2021	OTHER	600	INTERAC e-Transfer To: Marie Cla	Transferred
+1/3/2021	OTHER	3.99	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+1/3/2021	OTHER	99	INTERAC e-Transfer From: COLETTE	Transferred
+1/4/2021	OTHER	0.01	Withdrawal to Tangerine Savings 	Transferred
+1/4/2021	OTHER	55	INTERAC e-Transfer To: IPTV Diab	Transferred
+1/4/2021	ATM	"1,566.99"	Tangerine Credit Card Payment	Credit Card Payment
+1/5/2021	OTHER	16.24	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+1/5/2021	OTHER	275.78	Visa Debit - Purchase - SP * HUS	SP * HUSHBLANKETS.CA THORNHILL  CA
+1/6/2021	OTHER	4.38	Withdrawal to Tangerine Savings 	Transferred
+1/6/2021	OTHER	49	INTERAC e-Transfer From: COLETTE	Transferred
+1/6/2021	OTHER	25.22	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+1/7/2021	OTHER	1.97	Withdrawal to Tangerine Savings 	Transferred
+1/8/2021	OTHER	0.51	Withdrawal to Tangerine Savings 	Transferred
+1/8/2021	OTHER	28.45	Interac - Purchase - MCDONALD'S 	MCDONALD'S #270 ST.LEONARD  QC  CA
+1/8/2021	OTHER	75.99	Interac - Purchase - METRO # 042	METRO # 0421 MONTREAL  QC  CA
+1/9/2021	OTHER	0.56	Withdrawal to Tangerine Savings 	Transferred
+1/13/2021	OTHER	0.6	Withdrawal to Tangerine Savings 	Transferred
+1/13/2021	OTHER	31.91	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+1/14/2021	OTHER	0.09	Withdrawal to Tangerine Savings 	Transferred
+1/15/2021	OTHER	0.15	Withdrawal to Tangerine Savings 	Transferred
+1/15/2021	OTHER	23.54	Interac - Purchase - MCDONALD'S 	MCDONALD'S #533 MONTREAL  QC  CA
+1/16/2021	OTHER	0.98	Withdrawal to Tangerine Savings 	Transferred
+1/16/2021	OTHER	7.61	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+1/17/2021	OTHER	0.39	Withdrawal to Tangerine Savings 	Transferred
+1/17/2021	OTHER	22.6	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+1/18/2021	OTHER	0.4	Withdrawal to Tangerine Savings 	Transferred
+1/18/2021	OTHER	206.46	EFT Withdrawal to CIE BELAIR	To CIE BELAIR
+1/19/2021	OTHER	0.54	Withdrawal to Tangerine Savings 	Transferred
+1/19/2021	OTHER	47.64	Interac - Purchase - CANADIAN TI	CANADIAN TIRE S ST-LEONARD  QC  CA
+1/19/2021	OTHER	80.21	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+1/19/2021	OTHER	69.4	Interac - Purchase - SAQ23344 LE	SAQ23344 LE BOU MONTREAL  QC  CA
+1/20/2021	OTHER	2.14	Withdrawal to Tangerine Savings 	Transferred
+1/20/2021	OTHER	110	INTERAC e-Transfer From: COLETTE	Transferred
+1/22/2021	OTHER	171.73	Interac - Purchase - MAXI & CIE 	MAXI & CIE #8956 SAINT-LEON  QC  CA
+1/23/2021	OTHER	1.36	Withdrawal to Tangerine Savings 	Transferred
+1/24/2021	OTHER	1.14	Withdrawal to Tangerine Savings 	Transferred
+1/24/2021	DEBIT	87.28	Bill Payment - SAAQ-PERMIS DE CO	BILLPO
+1/25/2021	OTHER	0.72	Withdrawal to Tangerine Savings 	Transferred
+1/26/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+1/26/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+1/26/2021	ATM	891.85	Tangerine Credit Card Payment	Credit Card Payment
+1/27/2021	OTHER	2.16	Withdrawal to Tangerine Savings 	Transferred
+1/29/2021	OTHER	"1,049.98"	EFT Deposit from JMC AUDIO	From JMC AUDIO
+1/30/2021	OTHER	52.5	Withdrawal to Tangerine Savings 	Transferred
+1/30/2021	OTHER	0.32	Withdrawal to Tangerine Savings 	Transferred
+1/30/2021	OTHER	30.24	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+1/31/2021	OTHER	0.76	Withdrawal to Tangerine Savings 	Transferred
+1/31/2021	OTHER	13.94	Interac - Purchase - COUCHETARD 	COUCHETARD #365 MONTREAL  QC  CA
+1/31/2021	OTHER	0.02	Interest Paid	
+2/1/2021	OTHER	0.06	Withdrawal to Tangerine Savings 	Transferred
+2/1/2021	OTHER	600	INTERAC e-Transfer To: Marie Cla	Transferred
+2/1/2021	OTHER	68.95	Interac - Purchase - CANADIAN TI	CANADIAN TIRE S ST-LEONARD  QC  CA
+2/1/2021	OTHER	97.07	Interac - Purchase - MAXI   CIE 	MAXI   CIE #895 SAINT-LEON  QC  CA
+2/1/2021	OTHER	17.7	Interac - Purchase - PHARMAPRIX 	PHARMAPRIX #195 SAINT-LEON  QC  CA
+2/1/2021	OTHER	4.92	Interac - Purchase - PHARMAPRIX 	PHARMAPRIX #195 SAINT-LEON  QC  CA
+2/4/2021	OTHER	0.22	Withdrawal to Tangerine Savings 	Transferred
+2/4/2021	OTHER	14.32	Interac - Purchase - COUCHETARD 	COUCHETARD #365 MONTREAL  QC  CA
+2/4/2021	OTHER	23.08	Interac - Purchase - Subway 6152	Subway 61523 Montreal  QC  CA
+2/5/2021	OTHER	1.6	Withdrawal to Tangerine Savings 	Transferred
+2/6/2021	OTHER	1.18	Withdrawal to Tangerine Savings 	Transferred
+2/7/2021	OTHER	0.66	Withdrawal to Tangerine Savings 	Transferred
+2/7/2021	OTHER	20.53	Interac - Purchase - MCDONALD'S 	MCDONALD'S #270 ST.LEONARD  QC  CA
+2/8/2021	OTHER	0.47	Withdrawal to Tangerine Savings 	Transferred
+2/10/2021	OTHER	1.43	Withdrawal to Tangerine Savings 	Transferred
+2/11/2021	OTHER	0.54	Withdrawal to Tangerine Savings 	Transferred
+2/11/2021	OTHER	7.3	Interac - Purchase - DEPANNEUR B	DEPANNEUR BJ MONTREAL  QC  CA
+2/12/2021	OTHER	0.7	Withdrawal to Tangerine Savings 	Transferred
+2/13/2021	OTHER	91.25	Interac - Purchase - ADDISON ELE	ADDISON ELECTRO MONTREAL  QC  CA
+2/14/2021	OTHER	1.25	Withdrawal to Tangerine Savings 	Transferred
+2/17/2021	OTHER	0.95	Withdrawal to Tangerine Savings 	Transferred
+2/17/2021	OTHER	12.57	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+2/18/2021	OTHER	0.43	Withdrawal to Tangerine Savings 	Transferred
+2/18/2021	OTHER	206.46	EFT Withdrawal to CIE BELAIR	To CIE BELAIR
+2/18/2021	OTHER	28.93	Interac - Purchase - CANADIAN TI	CANADIAN TIRE # MONTREAL  QC  CA
+2/18/2021	OTHER	12.57	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+2/18/2021	OTHER	71.2	Interac - Purchase - THE HOME DE	THE HOME DEPOT MONTREAL  QC  CA
+2/19/2021	OTHER	1.84	Withdrawal to Tangerine Savings 	Transferred
+2/19/2021	OTHER	275.94	INTERAC e-Transfer From: LES PRO	Transferred
+2/20/2021	OTHER	0.61	Withdrawal to Tangerine Savings 	Transferred
+2/20/2021	OTHER	38.04	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+2/21/2021	OTHER	0.96	Withdrawal to Tangerine Savings 	Transferred
+2/21/2021	OTHER	48.21	Interac - Purchase - RONA ENT. A	RONA ENT. ANJOU ANJOU  QC  CA
+2/21/2021	OTHER	40.55	Interac - Purchase - BEST BUY #8	BEST BUY #84 ANJOU  QC  CA
+2/21/2021	OTHER	43.09	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+2/22/2021	OTHER	2.15	Withdrawal to Tangerine Savings 	Transferred
+2/22/2021	OTHER	16.87	Interac - Purchase - BUREAU EN G	BUREAU EN GROS SAINT-LEON  QC  CA
+2/23/2021	OTHER	0.13	Withdrawal to Tangerine Savings 	Transferred
+2/24/2021	OTHER	11.25	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+2/25/2021	OTHER	0.79	Withdrawal to Tangerine Savings 	Transferred
+2/25/2021	OTHER	12.57	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+2/25/2021	OTHER	27.33	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+2/26/2021	OTHER	1.1	Withdrawal to Tangerine Savings 	Transferred
+2/26/2021	OTHER	15.87	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+2/26/2021	OTHER	16	Interac - Purchase - LA SUCCURSA	LA SUCCURSALE MONTREAL  QC  CA
+2/27/2021	OTHER	0.29	Withdrawal to Tangerine Savings 	Transferred
+2/27/2021	ATM	840.39	Tangerine Credit Card Payment	Credit Card Payment
+2/28/2021	OTHER	16.43	Interac - Purchase - HARVEY'S #0	HARVEY'S #00024 ST.LEONARD  QC  CA
+2/28/2021	OTHER	0.02	Interest Paid	
+3/1/2021	OTHER	0.57	Withdrawal to Tangerine Savings 	Transferred
+3/1/2021	OTHER	7.16	Interac - Purchase - COUCHETARD 	COUCHETARD #365 MONTREAL  QC  CA
+3/1/2021	OTHER	8.75	Interac - Purchase - MARCHE SOUP	MARCHE SOUPSON MONTREAL  QC  CA
+3/1/2021	OTHER	600	INTERAC e-Transfer To: Marie Cla	Transferred
+3/2/2021	OTHER	1.09	Withdrawal to Tangerine Savings 	Transferred
+3/2/2021	OTHER	36.38	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+3/3/2021	OTHER	0.62	Withdrawal to Tangerine Savings 	Transferred
+3/3/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+3/3/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+3/3/2021	OTHER	11.25	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+3/3/2021	OTHER	22.03	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+3/4/2021	OTHER	1.94	Withdrawal to Tangerine Savings 	Transferred
+3/4/2021	OTHER	14.55	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+3/5/2021	OTHER	1.18	Withdrawal to Tangerine Savings 	Transferred
+3/5/2021	OTHER	11.25	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+3/6/2021	OTHER	1.83	Withdrawal to Tangerine Savings 	Transferred
+3/6/2021	OTHER	10.58	Interac - Purchase - LA BOUFFE M	LA BOUFFE MAISO MONTREAL  QC  CA
+3/7/2021	OTHER	1.23	Withdrawal to Tangerine Savings 	Transferred
+3/7/2021	OTHER	31.9	Interac - Purchase - SAQ23344 LE	SAQ23344 LE BOU MONTREAL  QC  CA
+3/8/2021	OTHER	0.1	Withdrawal to Tangerine Savings 	Transferred
+3/8/2021	OTHER	20.13	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+3/9/2021	OTHER	0.87	Withdrawal to Tangerine Savings 	Transferred
+3/10/2021	OTHER	0.57	Withdrawal to Tangerine Savings 	Transferred
+3/10/2021	OTHER	20.88	Interac - Purchase - MCDONALD'S 	MCDONALD'S #270 ST.LEONARD  QC  CA
+3/11/2021	OTHER	0.66	Withdrawal to Tangerine Savings 	Transferred
+3/12/2021	OTHER	48.15	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+3/13/2021	OTHER	1.23	Withdrawal to Tangerine Savings 	Transferred
+3/13/2021	OTHER	1.23	Withdrawal to Tangerine Savings 	Transferred
+3/13/2021	OTHER	1.23	Withdrawal to Tangerine Savings 	Transferred
+3/13/2021	OTHER	1.23	Withdrawal to Tangerine Savings 	Transferred
+3/13/2021	OTHER	1.23	Withdrawal to Tangerine Savings 	Transferred
+3/13/2021	OTHER	22.25	Interac - Purchase - CABANE SUCR	CABANE SUCRE CO SAINT-EUST  QC  CA
+3/13/2021	OTHER	39.44	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+3/13/2021	OTHER	36.79	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+3/14/2021	OTHER	1.52	Withdrawal to Tangerine Savings 	Transferred
+3/15/2021	OTHER	50	Interac - Purchase - PETRO-CANAD	PETRO-CANADA MONTREAL  QC  CA
+3/15/2021	OTHER	13.5	Interac - Purchase - MARCHE SOUP	MARCHE SOUPSON MONTREAL  QC  CA
+3/16/2021	OTHER	0.5	Withdrawal to Tangerine Savings 	Transferred
+3/16/2021	OTHER	15.49	Interac - Purchase - MCDONALD'S 	MCDONALD'S #795 MONTREAL  QC  CA
+3/17/2021	OTHER	0.51	Withdrawal to Tangerine Savings 	Transferred
+3/17/2021	OTHER	11.25	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+3/17/2021	OTHER	17.36	Interac - Purchase - POIVRE ET S	POIVRE ET SEL MONTREAL  QC  CA
+3/17/2021	OTHER	18.46	Interac - Purchase - BOL DE VIE 	BOL DE VIE MONTREAL  QC  CA
+3/17/2021	OTHER	15.74	Interac - Purchase - COUCHETARD 	COUCHETARD #321 MONTREAL  QC  CA
+3/18/2021	OTHER	2.69	Withdrawal to Tangerine Savings 	Transferred
+3/18/2021	OTHER	206.46	EFT Withdrawal to CIE BELAIR	To CIE BELAIR
+3/18/2021	OTHER	11.9	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+3/18/2021	OTHER	80	INTERAC e-Transfer To: Lydia Bou	Transferred
+3/19/2021	OTHER	0.64	Withdrawal to Tangerine Savings 	Transferred
+3/13/2021	OTHER	1.23	Reversal of Withdrawal to Tanger	Transferred
+3/13/2021	OTHER	1.23	Reversal of Withdrawal to Tanger	Transferred
+3/13/2021	OTHER	1.23	Reversal of Withdrawal to Tanger	Transferred
+3/13/2021	OTHER	1.23	Reversal of Withdrawal to Tanger	Transferred
+3/19/2021	OTHER	15.21	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+3/19/2021	OTHER	25.33	Interac - Purchase - Subway 6152	Subway 61523 Montreal  QC  CA
+3/19/2021	OTHER	23.58	Interac - Purchase - COUCHETARD 	COUCHETARD #365 MONTREAL  QC  CA
+3/20/2021	OTHER	2.31	Withdrawal to Tangerine Savings 	Transferred
+3/20/2021	OTHER	14.1	Interac - Purchase - SAQ23173 MA	SAQ23173 MASSON MONTREAL  QC  CA
+3/20/2021	OTHER	44.67	Interac - Purchase - BOUCHERIE A	BOUCHERIE AUX D MONTREAL  QC  CA
+3/21/2021	OTHER	1.23	Withdrawal to Tangerine Savings 	Transferred
+3/21/2021	OTHER	32.3	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+3/22/2021	OTHER	0.7	Withdrawal to Tangerine Savings 	Transferred
+3/22/2021	OTHER	14.21	Interac - Purchase - BROCCA MONT	BROCCA MONTREAL  QC  CA
+3/23/2021	OTHER	0.79	Withdrawal to Tangerine Savings 	Transferred
+3/23/2021	OTHER	12.17	Interac - Purchase - BROCCA MONT	BROCCA MONTREAL  QC  CA
+3/24/2021	OTHER	0.83	Withdrawal to Tangerine Savings 	Transferred
+3/24/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+3/24/2021	OTHER	68.89	Interac - Purchase - ADDISON ELE	ADDISON ELECTRO MONTREAL  QC  CA
+3/24/2021	OTHER	30.98	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+3/25/2021	OTHER	0.13	Withdrawal to Tangerine Savings 	Transferred
+3/25/2021	OTHER	349.99	INTERAC e-Transfer From: LES PRO	Transferred
+3/25/2021	OTHER	37.94	Interac - Purchase - ADDISON ELE	ADDISON ELECTRO MONTREAL  QC  CA
+3/25/2021	OTHER	15.21	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+3/26/2021	OTHER	17.5	Withdrawal to Tangerine Savings 	Transferred
+3/26/2021	OTHER	0.85	Withdrawal to Tangerine Savings 	Transferred
+3/26/2021	OTHER	18.12	Interac - Purchase - ROY JU CEP 	ROY JU CEP REST DRUMMONDVI  QC  CA
+3/27/2021	OTHER	0.88	Withdrawal to Tangerine Savings 	Transferred
+3/27/2021	OTHER	33.73	Interac - Purchase - L'EQUIPEUR 	L'EQUIPEUR #92 ANJOU  QC  CA
+3/27/2021	OTHER	4.95	Interac - Purchase - CREME GLACE	CREME GLACEE LA ANJOU  QC  CA
+3/27/2021	OTHER	70.53	Interac - Purchase - RONA QUINC 	RONA QUINC BELA MONTREAL  QC  CA
+3/27/2021	OTHER	30.74	Interac - Purchase - COUCHETARD 	COUCHETARD #321 MONTREAL  QC  CA
+3/27/2021	OTHER	18.8	Interac - Purchase - SAQ23173 MA	SAQ23173 MASSON MONTREAL  QC  CA
+3/28/2021	OTHER	2.24	Withdrawal to Tangerine Savings 	Transferred
+3/28/2021	OTHER	24.2	Interac - Purchase - CANADIAN TI	CANADIAN TIRE S ST-LEONARD  QC  CA
+3/28/2021	OTHER	28.36	Interac - Purchase - RESTAURANT 	RESTAURANT PHO MONTREAL  QC  CA
+3/29/2021	OTHER	1.44	Withdrawal to Tangerine Savings 	Transferred
+3/30/2021	OTHER	16.04	Interac - Purchase - ADDISON ELE	ADDISON ELECTRO MONTREAL  QC  CA
+3/30/2021	OTHER	20.13	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+3/31/2021	OTHER	1.83	Withdrawal to Tangerine Savings 	Transferred
+3/31/2021	OTHER	11.9	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+3/31/2021	OTHER	0.02	Interest Paid	
+4/1/2021	OTHER	0.1	Withdrawal to Tangerine Savings 	Transferred
+4/1/2021	OTHER	600	INTERAC e-Transfer To: Marie Cla	Transferred
+4/1/2021	OTHER	11.9	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+4/2/2021	OTHER	0.1	Withdrawal to Tangerine Savings 	Transferred
+4/2/2021	OTHER	7.16	Interac - Purchase - ULTRAMAR #3	ULTRAMAR #36152 MONTREAL  QC  CA
+4/3/2021	OTHER	1.08	Withdrawal to Tangerine Savings 	Transferred
+4/3/2021	OTHER	26.79	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+4/4/2021	OTHER	0.21	Withdrawal to Tangerine Savings 	Transferred
+4/4/2021	OTHER	55	INTERAC e-Transfer To: IPTV Diab	Transferred
+4/4/2021	OTHER	11.49	Interac - Purchase - COUCHE-TARD	COUCHE-TARD # 1 MONTREAL  QC  CA
+4/5/2021	OTHER	0.51	Withdrawal to Tangerine Savings 	Transferred
+4/5/2021	OTHER	16.19	Interac - Purchase - BROCCA MONT	BROCCA MONTREAL  QC  CA
+4/5/2021	OTHER	75.36	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+4/5/2021	OTHER	37.26	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+4/6/2021	OTHER	2.19	Withdrawal to Tangerine Savings 	Transferred
+4/7/2021	OTHER	1.37	Withdrawal to Tangerine Savings 	Transferred
+4/7/2021	OTHER	50	Interac - Purchase - PETRO-CANAD	PETRO-CANADA MONTREAL  QC  CA
+4/7/2021	OTHER	15.21	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+4/7/2021	OTHER	7.8	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+4/8/2021	OTHER	1.4	Withdrawal to Tangerine Savings 	Transferred
+4/11/2021	OTHER	0.54	Withdrawal to Tangerine Savings 	Transferred
+4/14/2021	OTHER	1.32	Withdrawal to Tangerine Savings 	Transferred
+4/15/2021	OTHER	1.27	Withdrawal to Tangerine Savings 	Transferred
+4/15/2021	ATM	40	Withdrawal - Scotiabank ABM	BANK OF NOVA SCOTIA MONTREAL  PQ  CA
+4/15/2021	OTHER	24.12	Interac - Purchase - BRUNET PLUS	BRUNET PLUS ANJ ANJOU  QC  CA
+4/15/2021	OTHER	51.42	Interac - Purchase - RONA ENT. A	RONA ENT. ANJOU ANJOU  QC  CA
+4/15/2021	OTHER	36.38	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLEE VERTE MONTREAL  QC  CA
+4/16/2021	OTHER	2.74	Withdrawal to Tangerine Savings 	Transferred
+4/16/2021	OTHER	11.9	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+4/16/2021	OTHER	26.63	Interac - Purchase - MCDONALD'S 	MCDONALD'S #270 ST.LEONARD  QC  CA
+4/16/2021	OTHER	10.34	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+4/17/2021	OTHER	1.87	Withdrawal to Tangerine Savings 	Transferred
+4/19/2021	OTHER	206.46	EFT Withdrawal to CIE BELAIR	To CIE BELAIR
+4/19/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+4/19/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+4/19/2021	OTHER	48.32	Interac - Purchase - BRUNET PLUS	BRUNET PLUS ANJ ANJOU  QC  CA
+4/19/2021	ATM	"1,740.48"	Tangerine Credit Card Payment	Credit Card Payment
+4/19/2021	OTHER	15.49	Interac - Purchase - MCDONALD'S 	MCDONALD'S #795 MONTREAL  QC  CA
+4/20/2021	OTHER	1.73	Withdrawal to Tangerine Savings 	Transferred
+4/20/2021	OTHER	7.8	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+4/21/2021	OTHER	1.25	Withdrawal to Tangerine Savings 	Transferred
+4/21/2021	OTHER	15.21	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+4/22/2021	OTHER	0.79	Withdrawal to Tangerine Savings 	Transferred
+4/22/2021	OTHER	15.21	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+4/23/2021	OTHER	1.78	Withdrawal to Tangerine Savings 	Transferred
+4/23/2021	OTHER	15.21	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+4/23/2021	OTHER	22.43	Interac - Purchase - ULTRAMAR #3	ULTRAMAR #36152 MONTREAL  QC  CA
+4/24/2021	OTHER	1.36	Withdrawal to Tangerine Savings 	Transferred
+4/24/2021	OTHER	138.78	Interac - Purchase - ALIMENTATIO	ALIMENTATION P.BOISCLA SAINT-LEON  QC  CA
+4/24/2021	OTHER	28.4	Interac - Purchase - SAQ23344 LE	SAQ23344 LE BOU MONTREAL  QC  CA
+4/24/2021	OTHER	34.48	Interac - Purchase - COUCHE-TARD	COUCHE-TARD # 1 MONTREAL  QC  CA
+4/25/2021	OTHER	1.34	Withdrawal to Tangerine Savings 	Transferred
+4/25/2021	OTHER	20.9	Interac - Purchase - HARVEY'S #0	HARVEY'S #00024 ST.LEONARD  QC  CA
+4/26/2021	OTHER	0.1	Withdrawal to Tangerine Savings 	Transferred
+4/26/2021	OTHER	13.75	Interac - Purchase - ADDISON ELE	ADDISON ELECTRO MONTREAL  QC  CA
+4/26/2021	OTHER	14.21	Interac - Purchase - BROCCA MONT	BROCCA MONTREAL  QC  CA
+4/27/2021	OTHER	1.04	Withdrawal to Tangerine Savings 	Transferred
+4/27/2021	OTHER	39.51	Interac - Purchase - DEPANNEUR L	DEPANNEUR LE PI MONTREAL  QC  CA
+4/28/2021	OTHER	0.74	Withdrawal to Tangerine Savings 	Transferred
+4/28/2021	OTHER	15.6	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+4/28/2021	OTHER	15.21	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+4/29/2021	OTHER	1.19	Withdrawal to Tangerine Savings 	Transferred
+4/29/2021	OTHER	14.63	Interac - Purchase - SAINT-HENRI	SAINT-HENRI MIC MONTREAL  QC  CA
+4/29/2021	OTHER	27.76	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+4/29/2021	OTHER	"6,498.45"	EFT Deposit from JMC AUDIO	From JMC AUDIO
+4/30/2021	OTHER	324.92	Withdrawal to Tangerine Savings 	Transferred
+4/30/2021	OTHER	1.53	Withdrawal to Tangerine Savings 	Transferred
+4/30/2021	OTHER	0.01	Interest Paid	
+5/1/2021	OTHER	600	INTERAC e-Transfer To: Marie Cla	Transferred
+5/2/2021	OTHER	"1,000.00"	Visa Debit - Purchase - PAY TO: 	PAY TO: CRA     PAYER A OTTAWA  CA
+5/2/2021	OTHER	0	Posted :30 Apr 2021	PAY TO: CRA     PAYER A OTTAWA  CA
+5/2/2021	OTHER	0	Posted :30 Apr 2021	PAY TO: CRA     PAYER A OTTAWA  CA
+5/2/2021	OTHER	636	Visa Debit - Purchase - PAY TO: 	PAY TO: CRA     PAYER A OTTAWA  CA
+5/2/2021	OTHER	0	Posted :30 Apr 2021	PAY TO: CRA     PAYER A OTTAWA  CA
+5/2/2021	OTHER	0	Posted :30 Apr 2021	PAY TO: CRA     PAYER A OTTAWA  CA
+5/2/2021	OTHER	0.59	Withdrawal to Tangerine Savings 	Transferred
+5/2/2021	OTHER	52.75	Interac - Purchase - METRO # 042	METRO # 0421 MONTREAL  QC  CA
+5/3/2021	OTHER	0.25	Withdrawal to Tangerine Savings 	Transferred
+5/3/2021	OTHER	13	Interac - Purchase - MCDONALD'S 	MCDONALD'S #795 MONTREAL  QC  CA
+5/3/2021	OTHER	65.4	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+5/4/2021	OTHER	0.6	Withdrawal to Tangerine Savings 	Transferred
+5/4/2021	OTHER	40.62	Interac - Purchase - SUPER C PIE	SUPER C PIE 1X MONTREAL  QC  CA
+5/4/2021	OTHER	32.52	Interac - Purchase - RESTAURANT 	RESTAURANT DES SAINT-CYRI  QC  CA
+5/5/2021	OTHER	1.73	Withdrawal to Tangerine Savings 	Transferred
+5/5/2021	OTHER	16.04	Interac - Purchase - DEPANNEUR L	DEPANNEUR LE PI MONTREAL  QC  CA
+5/5/2021	OTHER	44.81	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLEE VERTE MONTREAL  QC  CA
+5/6/2021	OTHER	2.23	Withdrawal to Tangerine Savings 	Transferred
+5/6/2021	OTHER	4.55	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+5/7/2021	OTHER	0.7	Withdrawal to Tangerine Savings 	Transferred
+5/7/2021	OTHER	17.37	Interac - Purchase - DEPANNEUR L	DEPANNEUR LE PI Montreal  QC  CA
+5/8/2021	OTHER	1.04	Withdrawal to Tangerine Savings 	Transferred
+5/8/2021	OTHER	76.12	Interac - Purchase - METRO # 042	METRO # 0421 MONTREAL  QC  CA
+5/8/2021	OTHER	15.95	Interac - Purchase - SAQ23173 MA	SAQ23173 MASSON MONTREAL  QC  CA
+5/9/2021	OTHER	0.93	Withdrawal to Tangerine Savings 	Transferred
+5/9/2021	OTHER	44.84	Interac - Purchase - PROVIGO RAC	PROVIGO RACHEL MONTREAL  QC  CA
+5/9/2021	OTHER	11.36	Interac - Purchase - MCDONALD'S 	MCDONALD'S #270 ST.LEONARD  QC  CA
+5/10/2021	OTHER	0.8	Withdrawal to Tangerine Savings 	Transferred
+5/11/2021	OTHER	23.97	Interac - Purchase - DEPANNEUR L	DEPANNEUR LE PI Montreal  QC  CA
+5/12/2021	OTHER	1.24	Withdrawal to Tangerine Savings 	Transferred
+5/12/2021	OTHER	15.21	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+5/12/2021	OTHER	11.16	Interac - Purchase - PETRO-CANAD	PETRO-CANADA MONTREAL  QC  CA
+5/13/2021	OTHER	1.77	Withdrawal to Tangerine Savings 	Transferred
+5/13/2021	OTHER	14.17	Interac - Purchase - PETRO-CANAD	PETRO-CANADA MONTREAL  QC  CA
+5/13/2021	OTHER	11.9	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+5/13/2021	OTHER	20.65	Interac - Purchase - SAQ23173 MA	SAQ23173 MASSON MONTREAL  QC  CA
+5/14/2021	OTHER	1.8	Withdrawal to Tangerine Savings 	Transferred
+5/14/2021	OTHER	15.21	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+5/14/2021	OTHER	32.77	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+5/15/2021	OTHER	1.02	Withdrawal to Tangerine Savings 	Transferred
+5/16/2021	OTHER	1.37	Withdrawal to Tangerine Savings 	Transferred
+5/16/2021	OTHER	15.18	Interac - Purchase - CANADIAN TI	CANADIAN TIRE S ST-LEONARD  QC  CA
+5/16/2021	OTHER	7.8	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+5/16/2021	OTHER	70.72	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+5/16/2021	OTHER	31.9	Interac - Purchase - SAQ23344 LE	SAQ23344 LE BOU MONTREAL  QC  CA
+5/16/2021	OTHER	3.19	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+5/17/2021	OTHER	2.21	Withdrawal to Tangerine Savings 	Transferred
+5/17/2021	OTHER	17	Interac - Purchase - MCDONALD'S 	MCDONALD'S #795 MONTREAL  QC  CA
+5/18/2021	OTHER	206.46	EFT Withdrawal to CIE BELAIR	To CIE BELAIR
+5/18/2021	OTHER	4.75	Interac - Purchase - DEPANNEUR L	DEPANNEUR LE PI Montreal  QC  CA
+5/18/2021	OTHER	16.54	Visa Debit - Purchase - BAM*D±PA	BAM*D±PANNEUR LE PICK VICTORIA  CA
+5/19/2021	OTHER	"1,197.25"	INTERAC e-Transfer From: LES PRO	Transferred
+5/19/2021	OTHER	1.79	Withdrawal to Tangerine Savings 	Transferred
+5/19/2021	OTHER	13.1	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+5/19/2021	OTHER	18.99	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+5/20/2021	OTHER	59.86	Withdrawal to Tangerine Savings 	Transferred
+5/20/2021	OTHER	1.6	Withdrawal to Tangerine Savings 	Transferred
+5/21/2021	OTHER	0.37	Withdrawal to Tangerine Savings 	Transferred
+5/21/2021	OTHER	45.99	INTERAC e-Transfer To: F trois d	Transferred
+5/21/2021	OTHER	12.97	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+5/22/2021	OTHER	0.04	Withdrawal to Tangerine Savings 	Transferred
+5/22/2021	OTHER	49.38	Interac - Purchase - ADDISON ELE	ADDISON ELECTRO MONTREAL  QC  CA
+5/22/2021	OTHER	6.42	Interac - Purchase - MCDONALD'S 	MCDONALD'S #270 ST.LEONARD  QC  CA
+5/23/2021	OTHER	1.91	Withdrawal to Tangerine Savings 	Transferred
+5/23/2021	OTHER	17.69	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+5/23/2021	OTHER	20.13	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+5/24/2021	OTHER	1.18	Withdrawal to Tangerine Savings 	Transferred
+5/24/2021	OTHER	13	Interac - Purchase - MCDONALD'S 	MCDONALD'S #795 MONTREAL  QC  CA
+5/24/2021	OTHER	24.07	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+5/25/2021	OTHER	0.93	Withdrawal to Tangerine Savings 	Transferred
+5/25/2021	OTHER	26.26	Interac - Purchase - CANADIAN TI	CANADIAN TIRE S MONTREAL  QC  CA
+5/25/2021	OTHER	14.21	Interac - Purchase - BROCCA MONT	BROCCA MONTREAL  QC  CA
+5/26/2021	OTHER	1.53	Withdrawal to Tangerine Savings 	Transferred
+5/26/2021	OTHER	15.23	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+5/27/2021	OTHER	1.35	Withdrawal to Tangerine Savings 	Transferred
+5/27/2021	OTHER	43.08	Interac - Purchase - BUREAU EN G	BUREAU EN GROS SAINT-LEON  QC  CA
+5/27/2021	OTHER	7.94	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+5/27/2021	OTHER	15.21	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+5/27/2021	OTHER	28.58	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+5/28/2021	OTHER	2.58	Withdrawal to Tangerine Savings 	Transferred
+5/28/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+5/28/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+5/29/2021	OTHER	55.73	Interac - Purchase - METRO # 042	METRO # 0421 MONTREAL  QC  CA
+5/30/2021	OTHER	0.93	Withdrawal to Tangerine Savings 	Transferred
+5/31/2021	OTHER	14.21	Interac - Purchase - BROCCA MONT	BROCCA MONTREAL  QC  CA
+5/31/2021	OTHER	0.04	Interest Paid	
+6/1/2021	OTHER	0.79	Withdrawal to Tangerine Savings 	Transferred
+6/1/2021	OTHER	17.01	Interac - Purchase - HARVEY'S 25	HARVEY'S 2552 MONTREAL  QC  CA
+6/2/2021	OTHER	2.26	Withdrawal to Tangerine Savings 	Transferred
+6/2/2021	OTHER	63.84	Interac - Purchase - ADDISON ELE	ADDISON ELECTRO MONTREAL  QC  CA
+6/2/2021	OTHER	15.21	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+6/2/2021	OTHER	600	INTERAC e-Transfer To: Marie Cla	Transferred
+6/2/2021	ATM	"3,249.62"	Tangerine Credit Card Payment	Credit Card Payment
+6/3/2021	OTHER	1.17	Withdrawal to Tangerine Savings 	Transferred
+6/3/2021	OTHER	18.52	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+6/4/2021	OTHER	0.48	Withdrawal to Tangerine Savings 	Transferred
+6/4/2021	OTHER	18.22	Interac - Purchase - PETRO-CANAD	PETRO-CANADA MONTREAL  QC  CA
+6/4/2021	OTHER	12.57	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+6/5/2021	OTHER	2.3	Withdrawal to Tangerine Savings 	Transferred
+6/5/2021	OTHER	5.74	Interac - Purchase - BUREAU EN G	BUREAU EN GROS SAINT-LEON  QC  CA
+6/5/2021	OTHER	56.69	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+6/5/2021	OTHER	20.68	Interac - Purchase - CANADIAN TI	CANADIAN TIRE S ST-LEONARD  QC  CA
+6/5/2021	OTHER	39	Interac - Purchase - STH #225 EX	STH #225 EXPRES SAINT-LEON  QC  CA
+6/6/2021	OTHER	2.33	Withdrawal to Tangerine Savings 	Transferred
+6/6/2021	OTHER	77.05	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+6/6/2021	OTHER	45.57	Interac - Purchase - BOUCHERIE A	BOUCHERIE AUX DEUX GAU MONTREAL  QC  CA
+6/7/2021	OTHER	1.38	Withdrawal to Tangerine Savings 	Transferred
+6/7/2021	OTHER	11.51	Interac - Purchase - BROCCA MONT	BROCCA MONTREAL  QC  CA
+6/7/2021	OTHER	9.78	Interac - Purchase - RESTAURAN L	RESTAURAN LE PETIT QUE MONTREAL  QC  CA
+6/8/2021	OTHER	1.85	Withdrawal to Tangerine Savings 	Transferred
+6/8/2021	OTHER	169.17	Interac - Purchase - ABRA SAINT-	ABRA SAINT-LAUR  QC  CA
+6/8/2021	OTHER	9.75	Interac - Purchase - MARCHE SOUP	MARCHE SOUPSON MONTREAL  QC  CA
+6/8/2021	OTHER	34.37	Interac - Purchase - POKE STATIO	POKE STATION MONTREAL  QC  CA
+6/8/2021	OTHER	53.4	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE SUR MASS MONTREAL  QC  CA
+6/9/2021	OTHER	2.31	Withdrawal to Tangerine Savings 	Transferred
+6/9/2021	OTHER	49.43	Interac - Purchase - BUREAU EN G	BUREAU EN GROS SAINT-LEON  QC  CA
+6/9/2021	OTHER	19.81	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+6/10/2021	OTHER	0.76	Withdrawal to Tangerine Savings 	Transferred
+6/10/2021	OTHER	15.84	Interac - Purchase - MCDONALD'S 	MCDONALD'S #795 MONTREAL  QC  CA
+6/10/2021	OTHER	39.15	Interac - Purchase - PHARMAPRIX 	PHARMAPRIX #186 MONTREAL  QC  CA
+6/11/2021	OTHER	1.55	Withdrawal to Tangerine Savings 	Transferred
+6/11/2021	OTHER	3.37	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+6/11/2021	OTHER	11.9	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+6/11/2021	OTHER	31.05	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+6/11/2021	OTHER	3.31	Interac - Purchase - JEAN COUTU 	JEAN COUTU #148 MONTREAL  QC  CA
+6/12/2021	OTHER	2.37	Withdrawal to Tangerine Savings 	Transferred
+6/12/2021	OTHER	12.59	Interac - Purchase - CORNET GLAC	CORNET GLACE MONTREAL  QC  CA
+6/13/2021	OTHER	0.41	Withdrawal to Tangerine Savings 	Transferred
+6/13/2021	OTHER	14.25	Interac - Purchase - HARVEYS #23	HARVEYS #2346 MONTREAL  QC  CA
+6/13/2021	OTHER	34.79	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLEE VERTE MONTREAL  QC  CA
+6/14/2021	OTHER	0.96	Withdrawal to Tangerine Savings 	Transferred
+6/14/2021	OTHER	27.56	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+6/15/2021	OTHER	0.44	Withdrawal to Tangerine Savings 	Transferred
+6/15/2021	OTHER	11.17	Interac - Purchase - BROCCA MONT	BROCCA MONTREAL  QC  CA
+6/16/2021	OTHER	1.97	Withdrawal to Tangerine Savings 	Transferred
+6/16/2021	ATM	41.75	Withdrawal - ABM - CANTINE CHEZ 	CANTINE CHEZ REAL ST JEAN SU  QC  CA
+6/16/2021	FEE	1.5	Interac Network Usage Charge	ABM Fee
+6/16/2021	OTHER	20	INTERAC e-Transfer From: NICOLAS	Transferred
+6/17/2021	OTHER	0.4	Withdrawal to Tangerine Savings 	Transferred
+6/17/2021	OTHER	4.55	Interac - Purchase - BEMOL & LEV	BEMOL & LEVAIN JEAN-TA MONTREAL  QC  CA
+6/17/2021	OTHER	29.33	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE SUR MASS MONTREAL  QC  CA
+6/17/2021	OTHER	20	INTERAC e-Transfer To: Nicolas M	Transferred
+6/18/2021	OTHER	1.68	Withdrawal to Tangerine Savings 	Transferred
+6/18/2021	OTHER	206.46	EFT Withdrawal to CIE BELAIR	To CIE BELAIR
+6/18/2021	OTHER	50	INTERAC e-Transfer From: COLETTE	Transferred
+6/20/2021	OTHER	0.96	Withdrawal to Tangerine Savings 	Transferred
+6/21/2021	OTHER	16.38	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLEE VERTE MONTREAL  QC  CA
+6/22/2021	OTHER	0.62	Withdrawal to Tangerine Savings 	Transferred
+6/22/2021	OTHER	3.67	Interac - Purchase - TIM HORTONS	TIM HORTONS #0751 ANJOU  QC  CA
+6/22/2021	OTHER	17.01	Interac - Purchase - HARVEY'S 25	HARVEY'S 2552 MONTREAL  QC  CA
+6/23/2021	OTHER	3.79	Withdrawal to Tangerine Savings 	Transferred
+6/24/2021	OTHER	3.43	Withdrawal to Tangerine Savings 	Transferred
+6/25/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+6/25/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+6/25/2021	OTHER	15.17	Interac - Purchase - MCDONALD'S 	MCDONALD'S #7956   Q04 MONTREAL  QC  CA
+6/27/2021	OTHER	0.77	Withdrawal to Tangerine Savings 	Transferred
+6/27/2021	OTHER	26.96	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARCHE #845 MONTREAL  QC  CA
+6/27/2021	OTHER	53.62	Interac - Purchase - ALIMENTATIO	ALIMENTATION P.BOISCLA SAINT-LEON  QC  CA
+6/28/2021	OTHER	0.42	Withdrawal to Tangerine Savings 	Transferred
+6/30/2021	OTHER	2.04	Withdrawal to Tangerine Savings 	Transferred
+6/30/2021	OTHER	0.01	Interest Paid	
+7/1/2021	OTHER	1.28	Withdrawal to Tangerine Savings 	Transferred
+7/2/2021	OTHER	1.61	Withdrawal to Tangerine Savings 	Transferred
+7/2/2021	OTHER	600	INTERAC e-Transfer To: Marie Cla	Transferred
+7/3/2021	OTHER	32.77	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+7/4/2021	OTHER	2.16	Withdrawal to Tangerine Savings 	Transferred
+7/4/2021	OTHER	43.27	Interac - Purchase - IGA TELLIER	IGA TELLIER 677 MONTREAL  QC  CA
+7/5/2021	OTHER	0.73	Withdrawal to Tangerine Savings 	Transferred
+7/5/2021	OTHER	12.57	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+7/5/2021	OTHER	95	INTERAC e-Transfer To: IPTV Diab	Transferred
+7/6/2021	OTHER	57.21	Interac - Purchase - RONA QUINC 	RONA QUINC LA P VERDUN  QC  CA
+7/6/2021	OTHER	16.19	Interac - Purchase - METRO MANON	METRO MANON BEL VERDUN  QC  CA
+7/6/2021	OTHER	26.05	Interac - Purchase - METRO MANON	METRO MANON BEL VERDUN  QC  CA
+7/6/2021	OTHER	27.17	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+7/7/2021	OTHER	6.53	Withdrawal to Tangerine Savings 	Transferred
+7/8/2021	OTHER	1.5	Withdrawal to Tangerine Savings 	Transferred
+7/9/2021	OTHER	2.29	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+7/9/2021	OTHER	94.18	Interac - Purchase - CANADIAN TI	CANADIAN TIRE S ST-LEONARD  QC  CA
+7/9/2021	OTHER	37.02	Interac - Purchase - POKE STATIO	POKE STATION MONTREAL  QC  CA
+7/9/2021	OTHER	34.5	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+7/10/2021	OTHER	3.01	Withdrawal to Tangerine Savings 	Transferred
+7/10/2021	OTHER	34	Interac - Purchase - MCDONALD'S 	MCDONALD'S #112 DONNACONA  QC  CA
+7/10/2021	OTHER	6.81	Interac - Purchase - DEPANNEUR L	DEPANNEUR L ETA STONEHAM-E  QC  CA
+7/11/2021	OTHER	0.19	Withdrawal to Tangerine Savings 	Transferred
+7/11/2021	OTHER	29.87	Interac - Purchase - LA SOURCE #	LA SOURCE #5613 CHICOUTIMI  QC  CA
+7/11/2021	OTHER	160.95	Interac - Purchase - #484 SPORTS	#484 SPORTS EXPERTS CHICOUTIMI  QC  CA
+7/11/2021	OTHER	5.44	Interac - Purchase - CENTRE MULT	CENTRE MULTISER CHICOUTIMI  QC  CA
+7/12/2021	OTHER	0.74	Withdrawal to Tangerine Savings 	Transferred
+7/12/2021	OTHER	13.13	Interac - Purchase - JEAN COUTU 	JEAN COUTU #174 CHICOUTIMI  QC  CA
+7/12/2021	OTHER	12.08	Interac - Purchase - CAFE STARBU	CAFE STARBUCK T CHICOUTIMI  QC  CA
+7/13/2021	OTHER	1.79	Withdrawal to Tangerine Savings 	Transferred
+7/13/2021	OTHER	21.72	Interac - Purchase - PROVIGO CHI	PROVIGO CHICOUT CHICOUTIMI  QC  CA
+7/13/2021	OTHER	6.26	Interac - Purchase - CAFE STARBU	CAFE STARBUCK T CHICOUTIMI  QC  CA
+7/14/2021	OTHER	1.97	Withdrawal to Tangerine Savings 	Transferred
+7/14/2021	OTHER	19.9	Interac - Purchase - RESTAURANT 	RESTAURANT SORR CHICOUTIMI  QC  CA
+7/14/2021	OTHER	6.26	Interac - Purchase - CAFE STARBU	CAFE STARBUCK T CHICOUTIMI  QC  CA
+7/14/2021	OTHER	32.25	Interac - Purchase - WALMART STO	WALMART STORE # CHICOUTIMI  QC  CA
+7/15/2021	OTHER	1.59	Withdrawal to Tangerine Savings 	Transferred
+7/15/2021	OTHER	5.51	Interac - Purchase - MARCHE FALA	MARCHE FALARDEAU FALARDEAU  QC  CA
+7/15/2021	OTHER	23.07	Interac - Purchase - SUPER C CHI	SUPER C CHICOUT CHICOUTIMI  QC  CA
+7/15/2021	OTHER	26.91	Interac - Purchase - CENTRE MULT	CENTRE MULTISER CHICOUTIMI  QC  CA
+7/16/2021	OTHER	2.45	Withdrawal to Tangerine Savings 	Transferred
+7/16/2021	OTHER	31.46	Interac - Purchase - MCDONALD'S 	MCDONALD'S #401 SAINT-AUGU  QC  CA
+7/16/2021	OTHER	3.55	Interac - Purchase - COUCHETARD 	COUCHETARD #975 ST-AUGUSTI  QC  CA
+7/17/2021	OTHER	0.99	Withdrawal to Tangerine Savings 	Transferred
+7/19/2021	OTHER	206.46	EFT Withdrawal to CIE BELAIR	To CIE BELAIR
+7/19/2021	CREDIT	800	Internet Deposit from Tangerine 	Completed transfer from Tangerine SAV account 3030877789 ~ Internet Deposit
+7/19/2021	OTHER	4.55	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+7/19/2021	OTHER	"1,025.51"	INTERAC e-Transfer From: LES PRO	Transferred
+7/19/2021	OTHER	25.3	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+7/19/2021	OTHER	12.88	Interac - Purchase - COUCHETARD 	COUCHETARD #321 MONTREAL  QC  CA
+7/20/2021	OTHER	51.28	Withdrawal to Tangerine Savings 	Transferred
+7/20/2021	OTHER	1.81	Withdrawal to Tangerine Savings 	Transferred
+7/20/2021	OTHER	11.48	Interac - Purchase - CAFE MYRIAD	CAFE MYRIADE MONTREAL  QC  CA
+7/21/2021	OTHER	1.45	Withdrawal to Tangerine Savings 	Transferred
+7/21/2021	OTHER	5.69	Interac - Purchase - SQ *NOBLE C	SQ *NOBLE CAFE Montreal  QC  CA
+7/21/2021	OTHER	21.97	Interac - Purchase - DEPANNEUR L	DEPANNEUR LE PI Montreal  QC  CA
+7/22/2021	OTHER	0.34	Withdrawal to Tangerine Savings 	Transferred
+7/22/2021	ATM	"1,500.00"	Tangerine Credit Card Payment	Credit Card Payment
+7/22/2021	OTHER	9.14	Interac - Purchase - SQ *NOBLE C	SQ *NOBLE CAFE Montreal  QC  CA
+7/22/2021	OTHER	48.14	Interac - Purchase - RONA QUINC 	RONA QUINC LA P VERDUN  QC  CA
+7/22/2021	OTHER	9.58	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+7/23/2021	OTHER	2.14	Withdrawal to Tangerine Savings 	Transferred
+7/24/2021	OTHER	1.43	Withdrawal to Tangerine Savings 	Transferred
+7/24/2021	OTHER	10.64	Interac - Purchase - DEPANNEUR Y	DEPANNEUR YU MONTREAL  QC  CA
+7/25/2021	OTHER	0.36	Withdrawal to Tangerine Savings 	Transferred
+7/25/2021	OTHER	4.6	Interac - Purchase - MCDONALD'S 	MCDONALD'S #270 ST.LEONARD  QC  CA
+7/25/2021	OTHER	53.14	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+7/26/2021	OTHER	1.26	Withdrawal to Tangerine Savings 	Transferred
+7/26/2021	OTHER	9.25	Interac - Purchase - SQ *NOBLE C	SQ *NOBLE CAFE Montreal  QC  CA
+7/26/2021	OTHER	37.02	Interac - Purchase - POKE STATIO	POKE STATION MONTREAL  QC  CA
+7/26/2021	OTHER	29.33	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+7/27/2021	OTHER	2.4	Withdrawal to Tangerine Savings 	Transferred
+7/27/2021	OTHER	11.74	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+7/27/2021	OTHER	"1,533.10"	EFT Deposit from Troublemakers	From Troublemakers
+7/28/2021	OTHER	1.57	Withdrawal to Tangerine Savings 	Transferred
+7/28/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+7/28/2021	OTHER	900	EFT Deposit from CANADA	From CANADA
+7/28/2021	OTHER	22.98	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+7/28/2021	OTHER	25.33	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+7/29/2021	OTHER	0.69	Withdrawal to Tangerine Savings 	Transferred
+7/29/2021	OTHER	4	Interac - Purchase - PARC INDIGO	PARC INDIGO - N MONTREAL  QC  CA
+7/29/2021	OTHER	8.66	Interac - Purchase - PROVIGO MTL	PROVIGO MTL ST- MONTREAL  QC  CA
+7/29/2021	OTHER	14.15	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+7/30/2021	OTHER	2.25	Withdrawal to Tangerine Savings 	Transferred
+7/30/2021	OTHER	21.13	Interac - Purchase - HARVEY'S #0	HARVEY'S #00024 ST.LEONARD  QC  CA
+7/31/2021	OTHER	2.73	Withdrawal to Tangerine Savings 	Transferred
+7/31/2021	OTHER	34.71	Interac - Purchase - IGA MARCHE 	IGA MARCHE RAYN POINTE-DU-  QC  CA
+7/31/2021	OTHER	20.96	Interac - Purchase - IGA #399 SA	IGA #399 SAINTE-THE  QC  CA
+7/31/2021	OTHER	38.4	Interac - Purchase - SAQ23212 SA	SAQ23212 SAINTE SAINTE-THE  QC  CA
+7/31/2021	OTHER	49.56	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+7/31/2021	OTHER	2.82	Interac - Purchase - COUCHETARD 	COUCHETARD #321 MONTREAL  QC  CA
+7/31/2021	OTHER	600	INTERAC e-Transfer To: Marie Cla	Transferred
+7/31/2021	OTHER	0.02	Interest Paid	
+8/1/2021	OTHER	2.52	Withdrawal to Tangerine Savings 	Transferred
+8/1/2021	OTHER	44.43	Interac - Purchase - PROVIGO RAC	PROVIGO RACHEL MONTREAL  QC  CA
+8/2/2021	OTHER	0.57	Withdrawal to Tangerine Savings 	Transferred
+8/3/2021	OTHER	9.18	Interac - Purchase - IMAGINE LE 	IMAGINE LE FUN MONTREAL  QC  CA
+8/3/2021	OTHER	26.28	Interac - Purchase - PHARMAPRIX 	PHARMAPRIX #006 MONTREAL  QC  CA
+8/4/2021	OTHER	4.84	Withdrawal to Tangerine Savings 	Transferred
+8/4/2021	OTHER	50.85	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+8/5/2021	OTHER	0.15	Withdrawal to Tangerine Savings 	Transferred
+8/5/2021	OTHER	14.95	Interac - Purchase - PROVIGO MTL	PROVIGO MTL ST- MONTREAL  QC  CA
+8/5/2021	OTHER	32.77	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+8/6/2021	OTHER	1.94	Withdrawal to Tangerine Savings 	Transferred
+8/6/2021	OTHER	13.79	Interac - Purchase - CAFE MYRIAD	CAFE MYRIADE MONTREAL  QC  CA
+8/6/2021	OTHER	4.04	Interac - Purchase - PHARMAPRIX 	PHARMAPRIX #006 MONTREAL  QC  CA
+8/6/2021	OTHER	17.54	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+8/6/2021	OTHER	37.02	Interac - Purchase - POKE STATIO	POKE STATION MONTREAL  QC  CA
+8/7/2021	OTHER	3.47	Withdrawal to Tangerine Savings 	Transferred
+8/7/2021	OTHER	15.01	Interac - Purchase - CAFE PAQUEB	CAFE PAQUEBOT M MONTREAL  QC  CA
+8/7/2021	OTHER	18.4	Interac - Purchase - PROVIGO MTL	PROVIGO MTL ST- MONTREAL  QC  CA
+8/8/2021	OTHER	2.21	Withdrawal to Tangerine Savings 	Transferred
+8/8/2021	OTHER	43.05	Interac - Purchase - SAQ23185 AN	SAQ23185 ANGUS MONTREAL  QC  CA
+8/8/2021	OTHER	26.06	Interac - Purchase - PROVIGO RAC	PROVIGO RACHEL MONTREAL  QC  CA
+8/8/2021	OTHER	25.81	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+8/9/2021	OTHER	2.08	Withdrawal to Tangerine Savings 	Transferred
+8/9/2021	OTHER	11.81	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+8/9/2021	OTHER	18.99	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+8/10/2021	OTHER	0.2	Withdrawal to Tangerine Savings 	Transferred
+8/10/2021	OTHER	10.8	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+8/10/2021	OTHER	9.26	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+8/11/2021	OTHER	0.94	Withdrawal to Tangerine Savings 	Transferred
+8/11/2021	OTHER	14.74	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+8/11/2021	OTHER	"5,978.70"	EFT Deposit from Troublemakers	From Troublemakers
+8/11/2021	ATM	"4,097.64"	Tangerine Credit Card Payment	Credit Card Payment
+8/12/2021	OTHER	1.67	Withdrawal to Tangerine Savings 	Transferred
+8/13/2021	OTHER	29.85	Interac - Purchase - MCDONALD'S 	MCDONALD'S #291 TROIS-RIVI  QC  CA
+8/14/2021	OTHER	2.37	Withdrawal to Tangerine Savings 	Transferred
+8/14/2021	OTHER	14.95	Interac - Purchase - YOGA GRIND 	YOGA GRIND STUD LASALLE  QC  CA
+8/14/2021	OTHER	90.16	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+8/15/2021	OTHER	1.31	Withdrawal to Tangerine Savings 	Transferred
+8/15/2021	OTHER	14.84	Interac - Purchase - LA CREMIERE	LA CREMIERE MONTREAL  QC  CA
+8/16/2021	OTHER	0.16	Withdrawal to Tangerine Savings 	Transferred
+8/16/2021	OTHER	5.74	Interac - Purchase - D. VERMETTE	D. VERMETTE F. MONTREAL  QC  CA
+8/16/2021	OTHER	73.19	Interac - Purchase - CANADIAN TI	CANADIAN TIRE # MONTREAL  QC  CA
+8/16/2021	OTHER	30.35	Interac - Purchase - IGA TELLIER	IGA TELLIER 677 MONTREAL  QC  CA
+8/16/2021	OTHER	34.48	Interac - Purchase - COUCHE-TARD	COUCHE-TARD # 1 MONTREAL  QC  CA
+8/17/2021	OTHER	2.24	Withdrawal to Tangerine Savings 	Transferred
+8/18/2021	OTHER	0.2	Withdrawal to Tangerine Savings 	Transferred
+8/18/2021	OTHER	198.22	EFT Withdrawal to CIE BELAIR	To CIE BELAIR
+8/18/2021	OTHER	9.25	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+8/18/2021	OTHER	12.57	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+8/19/2021	OTHER	100	INTERAC e-Transfer To: Lydia Bou	Transferred
+8/19/2021	OTHER	77.63	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+8/19/2021	OTHER	100	INTERAC e-Transfer To: Lydia Bou	Transferred
+8/19/2021	OTHER	2.2	Withdrawal to Tangerine Savings 	Transferred
+8/19/2021	OTHER	9.24	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+8/20/2021	OTHER	1.13	Withdrawal to Tangerine Savings 	Transferred
+8/21/2021	OTHER	33.34	Interac - Purchase - LA MAISON S	LA MAISON SIMON ANJOU  QC  CA
+8/21/2021	OTHER	5.92	Interac - Purchase - STARBUCKS #	STARBUCKS #1819 SAINT- LEO  QC  CA
+8/21/2021	OTHER	92.32	Interac - Purchase - VIANDE S.G 	VIANDE S.G MONTREAL  QC  CA
+8/21/2021	OTHER	14.94	Interac - Purchase - CANADIAN TI	CANADIAN TIRE S ST-LEONARD  QC  CA
+8/21/2021	OTHER	12.64	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+8/22/2021	OTHER	1.84	Withdrawal to Tangerine Savings 	Transferred
+8/22/2021	OTHER	35.48	Interac - Purchase - MCDONALD'S 	MCDONALD'S #270 ST.LEONARD  QC  CA
+8/23/2021	OTHER	0.52	Withdrawal to Tangerine Savings 	Transferred
+8/24/2021	OTHER	16.32	Interac - Purchase - MCDONALD'S 	MCDONALD'S #404 MONTREAL  QC  CA
+8/24/2021	OTHER	7.81	Interac - Purchase - CANADIAN TI	CANADIAN TIRE # MONTREAL  QC  CA
+8/24/2021	OTHER	2.98	Interac - Purchase - JEAN COUTU 	JEAN COUTU #148 MONTREAL  QC  CA
+8/24/2021	OTHER	26.09	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+8/25/2021	OTHER	79.65	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+8/25/2021	OTHER	2.78	Withdrawal to Tangerine Savings 	Transferred
+8/25/2021	OTHER	"1,702.43"	EFT Deposit from PAIE/PAYROLL	From PAIE/PAYROLL
+8/26/2021	OTHER	85.12	Withdrawal to Tangerine Savings 	Transferred
+8/26/2021	OTHER	0.35	Withdrawal to Tangerine Savings 	Transferred
+8/26/2021	OTHER	18.99	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+8/26/2021	OTHER	19.18	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+8/26/2021	OTHER	16.89	Interac - Purchase - COUCHETARD 	COUCHETARD #321 MONTREAL  QC  CA
+8/26/2021	ATM	304	Withdrawal - ABM - BANQUE NATION	BANQUE NATIONALE MONTREAL  QC  CA
+8/26/2021	FEE	1.5	Interac Network Usage Charge	ABM Fee
+8/27/2021	OTHER	0.94	Withdrawal to Tangerine Savings 	Transferred
+8/27/2021	OTHER	12.11	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+8/27/2021	OTHER	280	INTERAC e-Transfer From: LYDIA B	Transferred
+8/28/2021	OTHER	1.48	Withdrawal to Tangerine Savings 	Transferred
+8/28/2021	OTHER	46.57	Interac - Purchase - IGA TELLIER	IGA TELLIER 677 MONTREAL  QC  CA
+8/29/2021	OTHER	0.43	Withdrawal to Tangerine Savings 	Transferred
+8/29/2021	OTHER	40	INTERAC e-Transfer From: COLETTE	Transferred
+8/30/2021	OTHER	12.57	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+8/30/2021	OTHER	44.84	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+8/31/2021	OTHER	0.03	Interest Paid	
+9/1/2021	OTHER	27.77	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+9/1/2021	OTHER	600	INTERAC e-Transfer To: Marie Cla	Transferred
+9/2/2021	OTHER	18.99	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+9/3/2021	OTHER	17.24	Interac - Purchase - BUREAU EN G	BUREAU EN GROS SAINT-LEON  QC  CA
+9/3/2021	OTHER	5.74	Interac - Purchase - D. VERMETTE	D. VERMETTE F. MONTREAL  QC  CA
+9/3/2021	OTHER	19.84	Interac - Purchase - DEPANNEUR L	DEPANNEUR LE PI Montreal  QC  CA
+9/4/2021	ATM	104	Withdrawal - ABM - BANQUE NATION	BANQUE NATIONALE MONTREAL  QC  CA
+9/4/2021	FEE	1.5	Interac Network Usage Charge	ABM Fee
+9/4/2021	OTHER	64.8	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+9/4/2021	OTHER	3.14	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+9/4/2021	OTHER	2.48	Withdrawal to Tangerine Savings 	Transferred
+9/5/2021	OTHER	1.81	Withdrawal to Tangerine Savings 	Transferred
+9/5/2021	OTHER	3.66	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+9/5/2021	OTHER	30.46	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+9/5/2021	OTHER	42.12	Interac - Purchase - WALMART STO	WALMART STORE # ST-LEONARD  QC  CA
+9/6/2021	OTHER	1.76	Withdrawal to Tangerine Savings 	Transferred
+9/6/2021	OTHER	14.25	Interac - Purchase - HARVEY'S #0	HARVEY'S #00024 ST.LEONARD  QC  CA
+9/6/2021	OTHER	1.75	Interac - Purchase - DˆPANNEUR 7	DˆPANNEUR 7 JOU MONTREAL  QC  CA
+9/7/2021	OTHER	1	Withdrawal to Tangerine Savings 	Transferred
+9/7/2021	OTHER	13.75	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+9/7/2021	OTHER	10.79	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+9/8/2021	OTHER	0.46	Withdrawal to Tangerine Savings 	Transferred
+9/8/2021	OTHER	17.25	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+9/8/2021	OTHER	"1,702.43"	EFT Deposit from PAIE/PAYROLL	From PAIE/PAYROLL
+9/9/2021	OTHER	85.12	Withdrawal to Tangerine Savings 	Transferred
+9/9/2021	OTHER	3.23	Withdrawal to Tangerine Savings 	Transferred
+9/9/2021	OTHER	17.07	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+9/9/2021	OTHER	21.28	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+9/10/2021	OTHER	1.65	Withdrawal to Tangerine Savings 	Transferred
+9/10/2021	OTHER	143.69	Interac - Purchase - CANADIAN TI	CANADIAN TIRE #343 MONTREAL  QC  CA
+9/10/2021	OTHER	5.69	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+9/10/2021	OTHER	15.24	Interac - Purchase - SQ *BRASSER	SQ *BRASSERIE H Montreal  QC  CA
+9/11/2021	OTHER	1.38	Withdrawal to Tangerine Savings 	Transferred
+9/11/2021	OTHER	20.59	Interac - Purchase - RESTAURANT 	RESTAURANT CHEZ MONTREAL  QC  CA
+9/12/2021	OTHER	0.41	Withdrawal to Tangerine Savings 	Transferred
+9/13/2021	OTHER	5.69	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+9/13/2021	OTHER	15.21	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+9/13/2021	OTHER	11.37	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+9/13/2021	OTHER	20.7	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+9/14/2021	OTHER	2.03	Withdrawal to Tangerine Savings 	Transferred
+9/14/2021	OTHER	18.52	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+9/15/2021	OTHER	0.48	Withdrawal to Tangerine Savings 	Transferred
+9/15/2021	OTHER	54.77	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+9/16/2021	OTHER	0.26	Withdrawal to Tangerine Savings 	Transferred
+9/16/2021	OTHER	15.87	Interac - Purchase - DEPANNEUR L	DEPANNEUR LE PI Montreal  QC  CA
+9/16/2021	OTHER	18.99	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+9/17/2021	OTHER	0.14	Withdrawal to Tangerine Savings 	Transferred
+9/17/2021	OTHER	4.12	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+9/18/2021	OTHER	0.88	Withdrawal to Tangerine Savings 	Transferred
+9/18/2021	OTHER	50	INTERAC e-Transfer To: Jean Mich	Transferred
+9/20/2021	OTHER	198.09	EFT Withdrawal to CIE BELAIR	To CIE BELAIR
+9/20/2021	OTHER	8.6	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+9/20/2021	OTHER	12.57	Interac - Purchase - CORNET GLAC	CORNET GLACE MONTREAL  QC  CA
+9/21/2021	OTHER	1.74	Withdrawal to Tangerine Savings 	Transferred
+9/21/2021	OTHER	7.8	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+9/22/2021	OTHER	0.2	Withdrawal to Tangerine Savings 	Transferred
+9/22/2021	OTHER	967.4	EFT Deposit from PAIE/PAYROLL	From PAIE/PAYROLL
+9/23/2021	OTHER	48.37	Withdrawal to Tangerine Savings 	Transferred
+9/23/2021	OTHER	11.37	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+9/23/2021	OTHER	23.31	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+9/24/2021	OTHER	1.32	Withdrawal to Tangerine Savings 	Transferred
+9/24/2021	OTHER	5.69	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+9/24/2021	OTHER	11.78	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+9/25/2021	OTHER	0.53	Withdrawal to Tangerine Savings 	Transferred
+9/25/2021	OTHER	42.27	Interac - Purchase - PHARMAPRIX 	PHARMAPRIX #195 SAINT-LEON  QC  CA
+9/25/2021	OTHER	19.98	Interac - Purchase - HARVEY'S #0	HARVEY'S #00024 ST.LEONARD  QC  CA
+9/25/2021	OTHER	18.59	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+9/26/2021	OTHER	1.16	Withdrawal to Tangerine Savings 	Transferred
+9/26/2021	OTHER	63.36	Interac - Purchase - WALMART STO	WALMART STORE # ST-LEONARD  QC  CA
+9/26/2021	OTHER	31.57	Interac - Purchase - MCDONALD'S 	MCDONALD'S #270 ST.LEONARD  QC  CA
+9/26/2021	OTHER	32.23	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+9/27/2021	OTHER	1.84	Withdrawal to Tangerine Savings 	Transferred
+9/27/2021	OTHER	20	Cancelled INTERAC e-Transfer To:	IEMT Cancelled O/S more than 90 days
+9/27/2021	OTHER	9.26	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+9/28/2021	OTHER	0.74	Withdrawal to Tangerine Savings 	Transferred
+9/28/2021	OTHER	12.57	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+9/29/2021	OTHER	0.43	Withdrawal to Tangerine Savings 	Transferred
+9/29/2021	OTHER	11.51	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+9/29/2021	OTHER	12.04	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+9/29/2021	OTHER	17.27	Interac - Purchase - COUCHE-TARD	COUCHE-TARD # 1 MONTREAL  QC  CA
+9/30/2021	OTHER	2.18	Withdrawal to Tangerine Savings 	Transferred
+9/30/2021	OTHER	9.26	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+9/30/2021	OTHER	0.04	Interest Paid	
+10/1/2021	OTHER	0.74	Withdrawal to Tangerine Savings 	Transferred
+10/1/2021	OTHER	18.21	Interac - Purchase - COUCHETARD 	COUCHETARD #365 MONTREAL  QC  CA
+10/1/2021	OTHER	600	INTERAC e-Transfer To: Marie Cla	Transferred
+10/1/2021	OTHER	33.92	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+10/1/2021	OTHER	73.6	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+10/2/2021	OTHER	1.27	Withdrawal to Tangerine Savings 	Transferred
+10/2/2021	DEBIT	275.43	Bill Payment - SAAQ-IMMATRICULAT	BILLPO
+10/3/2021	OTHER	75.73	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+10/3/2021	OTHER	5.97	Interac - Purchase - A W 5590 MO	A W 5590 MONTREAL  QC  CA
+10/3/2021	OTHER	0.57	Withdrawal to Tangerine Savings 	Transferred
+10/4/2021	OTHER	0.3	Withdrawal to Tangerine Savings 	Transferred
+10/4/2021	OTHER	11.51	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+10/4/2021	OTHER	9.26	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/4/2021	OTHER	21.91	Interac - Purchase - Subway 2324	Subway 23241 St-Leonard  QC  CA
+10/5/2021	OTHER	1.32	Withdrawal to Tangerine Savings 	Transferred
+10/5/2021	OTHER	12.04	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+10/6/2021	OTHER	2.43	Withdrawal to Tangerine Savings 	Transferred
+10/6/2021	OTHER	22.91	Interac - Purchase - ADDISON ELE	ADDISON ELECTRO MONTREAL  QC  CA
+10/6/2021	OTHER	23.81	Interac - Purchase - BRASSERIE H	BRASSERIE HARRI MONTREAL  QC  CA
+10/6/2021	OTHER	11.51	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+10/7/2021	OTHER	1.7	Withdrawal to Tangerine Savings 	Transferred
+10/7/2021	OTHER	15.6	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+10/7/2021	OTHER	11.51	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+10/7/2021	OTHER	26.57	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+10/7/2021	OTHER	100	INTERAC e-Transfer To: Lili Bouc	Transferred
+10/8/2021	OTHER	99.48	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+10/8/2021	OTHER	8.34	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+10/8/2021	OTHER	1.94	Withdrawal to Tangerine Savings 	Transferred
+10/8/2021	OTHER	22.98	Interac - Purchase - ADDISON ELE	ADDISON ELECTRO MONTREAL  QC  CA
+10/8/2021	OTHER	11.51	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+10/8/2021	OTHER	9.26	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/8/2021	OTHER	16.23	Interac - Purchase - CORNET GLAC	CORNET GLACE MONTREAL  QC  CA
+10/9/2021	OTHER	3.2	Withdrawal to Tangerine Savings 	Transferred
+10/9/2021	OTHER	28.12	Interac - Purchase - O GATERIES 	O GATERIES LONGUEUIL  QC  CA
+10/10/2021	OTHER	1.57	Withdrawal to Tangerine Savings 	Transferred
+10/10/2021	OTHER	82.81	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+10/11/2021	OTHER	0.19	Withdrawal to Tangerine Savings 	Transferred
+10/11/2021	OTHER	15.63	Interac - Purchase - HARVEY'S #0	HARVEY'S #00024 ST.LEONARD  QC  CA
+10/11/2021	OTHER	42.69	Interac - Purchase - ALIMENTATIO	ALIMENTATION P. SAINT-LEON  QC  CA
+10/12/2021	OTHER	0.68	Withdrawal to Tangerine Savings 	Transferred
+10/12/2021	OTHER	5.75	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+10/12/2021	OTHER	16.49	Interac - Purchase - DEPANNEUR L	DEPANNEUR LE PI Montreal  QC  CA
+10/13/2021	OTHER	0.76	Withdrawal to Tangerine Savings 	Transferred
+10/13/2021	OTHER	11.51	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+10/13/2021	OTHER	12.13	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/14/2021	OTHER	1.57	Withdrawal to Tangerine Savings 	Transferred
+10/14/2021	OTHER	48.07	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+10/14/2021	OTHER	17.83	Interac - Purchase - LA SUCCURSA	LA SUCCURSALE Montreal  QC  CA
+10/15/2021	OTHER	1.1	Withdrawal to Tangerine Savings 	Transferred
+10/15/2021	ATM	"2,217.24"	Tangerine Credit Card Payment	Credit Card Payment
+10/15/2021	OTHER	38.61	Interac - Purchase - COCO FRUTTI	COCO FRUTTI JEA SAINT-LEON  QC  CA
+10/15/2021	OTHER	11.51	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+10/15/2021	OTHER	3.68	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+10/15/2021	OTHER	12.57	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/15/2021	OTHER	18.99	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+10/15/2021	OTHER	8.25	Visa Debit - Purchase - VILLE MT	VILLE MTL CARTE CAM MONTREAL  CA
+10/15/2021	OTHER	0	Posted :10 Oct 2021	VILLE MTL CARTE CAM MONTREAL  CA
+10/15/2021	OTHER	0	Posted :10 Oct 2021	VILLE MTL CARTE CAM MONTREAL  CA
+10/16/2021	OTHER	2.39	Withdrawal to Tangerine Savings 	Transferred
+10/16/2021	OTHER	37.93	Interac - Purchase - LE TAMBOURI	LE TAMBOURIN GA ANJOU  QC  CA
+10/16/2021	OTHER	32.4	Interac - Purchase - SAQ23344 LE	SAQ23344 LE BOU MONTREAL  QC  CA
+10/17/2021	OTHER	0.88	Withdrawal to Tangerine Savings 	Transferred
+10/18/2021	OTHER	198.09	EFT Withdrawal to CIE BELAIR	To CIE BELAIR
+10/18/2021	OTHER	18.52	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/19/2021	OTHER	1.39	Withdrawal to Tangerine Savings 	Transferred
+10/19/2021	OTHER	18.52	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/19/2021	OTHER	21.24	Interac - Purchase - CHEZ BAPTIS	CHEZ BAPTISTE S MONTREAL  QC  CA
+10/20/2021	OTHER	5.02	Withdrawal to Tangerine Savings 	Transferred
+10/21/2021	OTHER	11.51	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+10/21/2021	OTHER	12.57	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/21/2021	OTHER	26.79	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+10/22/2021	OTHER	1.13	Withdrawal to Tangerine Savings 	Transferred
+10/22/2021	OTHER	11.9	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/23/2021	OTHER	0.43	Withdrawal to Tangerine Savings 	Transferred
+10/24/2021	OTHER	38.18	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+10/24/2021	OTHER	30.31	Interac - Purchase - MCDONALD'S 	MCDONALD'S #270 ST.LEONARD  QC  CA
+10/25/2021	OTHER	1.51	Withdrawal to Tangerine Savings 	Transferred
+10/25/2021	OTHER	17.25	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+10/25/2021	OTHER	17.25	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+10/25/2021	OTHER	14.95	Interac - Purchase - PROVIGO LE 	PROVIGO LE MARC MONTREAL  QC  CA
+10/26/2021	OTHER	1.55	Withdrawal to Tangerine Savings 	Transferred
+10/26/2021	OTHER	12.13	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/26/2021	OTHER	15.6	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+10/27/2021	OTHER	3	Withdrawal to Tangerine Savings 	Transferred
+10/27/2021	OTHER	11.9	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/27/2021	OTHER	2.88	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/28/2021	OTHER	0.22	Withdrawal to Tangerine Savings 	Transferred
+10/28/2021	OTHER	11.51	Interac - Purchase - NOBLE CAFE 	NOBLE CAFE MONTREAL  QC  CA
+10/28/2021	OTHER	9.92	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/29/2021	OTHER	0.57	Withdrawal to Tangerine Savings 	Transferred
+10/29/2021	OTHER	12.57	Interac - Purchase - BEMOL   LEV	BEMOL   LEVAIN MONTREAL  QC  CA
+10/30/2021	OTHER	2.29	Withdrawal to Tangerine Savings 	Transferred
+10/30/2021	OTHER	10.58	Interac - Purchase - LA BOUFFE M	LA BOUFFE MAISO MONTREAL  QC  CA
+10/31/2021	OTHER	0.42	Withdrawal to Tangerine Savings 	Transferred
+10/31/2021	CREDIT	400	Internet Deposit from Tangerine 	Completed transfer from Tangerine SAV account 3030877789 ~ Internet Deposit
+10/31/2021	OTHER	0.02	Interest Paid	
+11/2/2021	OTHER	615	EFT Deposit from JMC Audio	From JMC Audio
+11/2/2021	OTHER	600	INTERAC e-Transfer To: Marie Cla	Transferred
+11/2/2021	OTHER	34.49	Interac - Purchase - ONE TOUCH M	ONE TOUCH MASSO MONTREAL  QC  CA
+11/2/2021	OTHER	22.54	Interac - Purchase - RESTAURANT 	RESTAURANT CHEZ MONTREAL  QC  CA
+11/2/2021	OTHER	24.56	Interac - Purchase - L'AUBERGE S	L'AUBERGE SAINT DORVAL  QC  CA
+11/3/2021	OTHER	2.09	Withdrawal to Tangerine Savings 	Transferred
+11/4/2021	OTHER	3.44	Withdrawal to Tangerine Savings 	Transferred
+11/5/2021	OTHER	1.45	Withdrawal to Tangerine Savings 	Transferred
+11/6/2021	OTHER	1.01	Withdrawal to Tangerine Savings 	Transferred
+11/10/2021	OTHER	1.1	Withdrawal to Tangerine Savings 	Transferred
+11/14/2021	OTHER	0.3	Withdrawal to Tangerine Savings 	Transferred
+11/14/2021	ATM	56.22	Tangerine Credit Card Payment	Credit Card Payment
+11/18/2021	OTHER	198.09	EFT Withdrawal to CIE BELAIR	To CIE BELAIR
+11/19/2021	OTHER	0.91	Withdrawal to Tangerine Savings 	Transferred
+11/21/2021	OTHER	0.2	Withdrawal to Tangerine Savings 	Transferred
+11/24/2021	OTHER	0.03	Withdrawal to Tangerine Savings 	Transferred
+11/26/2021	OTHER	0.72	Withdrawal to Tangerine Savings 	Transferred
+11/29/2021	OTHER	100	Cancelled INTERAC e-Transfer To:	IEMT Cancelled O/S more than 90 days
+11/30/2021	OTHER	0.01	Interest Paid	
+12/1/2021	OTHER	800	INTERAC e-Transfer To: Marie Cla	Transferred
+12/1/2021	OTHER	1.58	Withdrawal to Tangerine Savings 	Transferred
+12/1/2021	OTHER	285.22	EFT Deposit from PAIE/PAYROLL	From PAIE/PAYROLL
+12/2/2021	OTHER	14.26	Withdrawal to Tangerine Savings 	Transferred
+12/3/2021	OTHER	"7,875.79"	EFT Deposit from CIRQUEDUSOLEIL	From CIRQUEDUSOLEIL
+12/4/2021	ATM	"3,107.75"	Tangerine Credit Card Payment	Credit Card Payment
+12/4/2021	OTHER	0.93	Withdrawal to Tangerine Savings 	Transferred
+12/8/2021	OTHER	2.12	Withdrawal to Tangerine Savings 	Transferred
+12/9/2021	OTHER	"4,024.13"	EFT Deposit from CIRQUEDUSOLEIL	From CIRQUEDUSOLEIL
+12/16/2021	OTHER	0.79	Withdrawal to Tangerine Savings 	Transferred
+12/16/2021	OTHER	"4,024.13"	EFT Deposit from CIRQUEDUSOLEIL	From CIRQUEDUSOLEIL
+12/19/2021	OTHER	0.54	Withdrawal to Tangerine Savings 	Transferred
+12/20/2021	OTHER	198.09	EFT Withdrawal to CIE BELAIR	To CIE BELAIR
+12/21/2021	OTHER	0.91	Withdrawal to Tangerine Savings 	Transferred
+12/22/2021	OTHER	0.11	Withdrawal to Tangerine Savings 	Transferred
+12/22/2021	DEBIT	"11,164.69"	Bill Payment - REVENU QUEBEC-COD	BILLPO
+12/22/2021	OTHER	50	INTERAC e-Transfer From: COLETTE	Transferred
+12/22/2021	OTHER	26.79	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+12/23/2021	OTHER	1.25	Withdrawal to Tangerine Savings 	Transferred
+12/24/2021	OTHER	1.54	Withdrawal to Tangerine Savings 	Transferred
+12/25/2021	OTHER	0.52	Withdrawal to Tangerine Savings 	Transferred
+12/25/2021	OTHER	40.54	Interac - Purchase - COUCHETARD 	COUCHETARD #365 MONTREAL  QC  CA
+12/26/2021	OTHER	1.14	Withdrawal to Tangerine Savings 	Transferred
+12/28/2021	OTHER	17.24	Interac - Purchase - JEAN COUTU 	JEAN COUTU #092 MONTREAL  QC  CA
+12/29/2021	OTHER	0.76	Withdrawal to Tangerine Savings 	Transferred
+12/30/2021	OTHER	13.75	Interac - Purchase - VALENTINE E	VALENTINE EATON MONTREAL  QC  CA
+12/30/2021	OTHER	87.7	Interac - Purchase - SAQ23344 LE	SAQ23344 LE BOU MONTREAL  QC  CA
+12/31/2021	OTHER	0.71	Withdrawal to Tangerine Savings 	Transferred
+12/31/2021	OTHER	21.28	Interac - Purchase - DEPANNEUR V	DEPANNEUR VALLE MONTREAL  QC  CA
+12/31/2021	OTHER	0.05	Interest Paid	
+				
+				
+			Total:	"CAD 49,156.76"
+				
+				
+				
+				
+				
+				
+				900
+				900
+				1049.98
+				900
+				900
+				900
+				900
+				900
+				6498.45
+				900
+				900
+				900
+				900
+				800
+				1533.1
+				900
+				900
+				5978.7
+				1702.43
+				1702.43
+				967.4
+				400
+				615
+				285.22
+				7875.79
+				4024.13
+				4024.13
