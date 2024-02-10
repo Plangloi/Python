@@ -1,4 +1,20 @@
 import os
+from tkinter import *
+from ttkbootstrap.constants import *
+import ttkbootstrap as tb
+
+
+# root = tk()
+root = tb.Window(themename="superhero")
+
+#root = TK()
+root.title("TTK Boostrap!")
+root.iconbitmap('images/codemy.ico')
+root.geometry('500,350')
+
+root.mainloop()
+
+break
 
 out = 0
 
