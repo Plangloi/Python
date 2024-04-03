@@ -14,8 +14,6 @@ root.geometry('500,350')
 
 root.mainloop()
 
-break
-
 out = 0
 
 
