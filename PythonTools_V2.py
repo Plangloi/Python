@@ -1,7 +1,7 @@
 #Tools
 
 import subprocess
-
+import os
 
 def menu():
     print("\n--- Main Menu ---")
@@ -13,6 +13,7 @@ def menu():
 
 
 def menu_system():
+    os.system('clear')
     while True:
         print("1. Display OS Information")
         print("2. Display Users with UID >= 1000")
