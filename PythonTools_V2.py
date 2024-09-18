@@ -1,3 +1,8 @@
+#Tools
+
+import subprocess
+
+
 def menu():
     print("\n--- Main Menu ---")
     print("1. System info")
@@ -6,23 +11,32 @@ def menu():
     print("4. File Share")
     print("5. Exit")
 
-def say_hello():
-    print("Hello!")
 
-def add_numbers():
-    num1 = float(input("Enter the first number: "))
-    num2 = float(input("Enter the second number: "))
-    print(f"The result is: {num1 + num2}")
+def menu_system():
+    while True:
+        print("1. Display OS Information")
+        print("2. Display Users with UID >= 1000")
+        print("3. Show Network Connections")
+        print("4. Exit")
 
-def subtract_numbers():
-    num1 = float(input("Enter the first number: "))
-    num2 = float(input("Enter the second number: "))
-    print(f"The result is: {num1 - num2}")
+        choice = input("Choose an option (1-4): ")
 
-def multiply_numbers():
-    num1 = float(input("Enter the first number: "))
-    num2 = float(input("Enter the second number: "))
-    print(f"The result is: {num1 * num2}")
+        if choice == '1':
+            # Run the command to display OS information
+            subprocess.run(["cat", "/etc/os-release"])
+        elif choice == '2':
+            # Run the awk command to filter users with UID >= 1000
+            subprocess.run(["awk", "-F:", "$3 >= 1000 { print $1 }", "/etc/passwd"])
+        elif choice == '3':
+            # Run the command to display network information
+            subprocess.run(["nmcli"])
+        elif choice == '4':
+            print("Exiting the program. Goodbye!")
+            break
+        else:
+            print("Invalid choice. Please choose a number between 1 and 4.")
+        
+#================================-Main-=========================================================
 
 def main():
     while True:
@@ -30,7 +44,7 @@ def main():
         choice = input("Choose an option (1-5): ")
         
         if choice == '1':
-            say_hello()
+            menu_system()
         elif choice == '2':
             add_numbers()
         elif choice == '3':
