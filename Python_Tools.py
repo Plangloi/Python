@@ -26,6 +26,7 @@ def affichagemenu():
     elif choix == '2':
         nmap1()
     elif choix == '3':
+        
         ssh1()
     elif choix.lower() in ['q', 'quit']:
         quiter()
@@ -90,7 +91,7 @@ def Usertools():
         print("Mauvais choix")
         pause()
 
-# Menu SSH --------------------------
+#
 def ssh1():
     os.system('clear')
     print("1-SSH install\n")
@@ -112,22 +113,33 @@ def nmap1():
     os.system('clear')
     print("1-Nmap install\n")
     print("2-Nmap port ouvert\n")
+    print("3-Nmap scan for Os\n")
+    print("4-Nmap scan all ports\n")
     print("\033[1;33m3-Main menu\033[m\n")
     
+    # 
     netstatchoix = input()
-    if netstatchoix == '1':
-        os.system('apt install nmap')
-        pause()
-    elif netstatchoix == '2':
-        target = input("target ip (default 192.168.1.1/24): ") or '192.168.1.1/24'
-        os.system(f'nmap {target}')
-        pause()
-    elif netstatchoix == '3':
-        affichagemenu()
-    else:
-        print("Mauvais choix")
-        pause()
+    match netstatchoix:
+        case '1':
+            os.system('apt install nmap')
+            pause()
+        case '2':
+            target = input("target ip (default 192.168.1.1/24): ") or '192.168.1.1/24'
+            os.system(f'nmap {target}')
+            pause()
+        case '3':
+            print("choix 3")
+            target = input("target ip (default 192.168.1.1/24): ") or '192.168.1.1/24'
+            os.system(f'nmap -O {target}')
+            pause()
 
+        case '4':
+            target = input("target ip (default 192.168.1.1/24): ") or '192.168.1.1/24'
+            os.system(f'nmap -p- {target}')
+            pause()
+        case _:
+            print("Mauvais choix")
+            pause()
 # Main function --------------------
 def main1():
     while out == 0:
