@@ -7,12 +7,12 @@ import time
 
 out = 0
 # ---------------Pause ----------------
-# def pause():
-#     input("Press Enter to continue!")
-#     affichagemenu()
+def pause():
+    input("Press Enter to continue!")
+    affichagemenu()
 # ---------------Pause ----------------
 #Quitter ----------------------------
-def quiter():
+def quitter():
     print("Goodbye!")
     global out
     out = 1
@@ -36,7 +36,7 @@ def affichagemenu():
     elif choix == '3':
         ssh1()
     elif choix.lower() in ['q', 'quit']:
-        quiter()
+        quitter()
     else:
         print("Invalid Choice")
         pause()
