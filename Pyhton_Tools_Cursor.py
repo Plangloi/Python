@@ -1,6 +1,9 @@
 import os
 import readline
 import glob
+import subprocess
+import time
+
 
 out = 0
 
@@ -11,6 +14,7 @@ def affichagemenu():
     print("\033[1;32m1-User Tools\033[m")
     print("\033[1;32m2-Nmap\033[m")
     print("\033[1;32m3-SSH\033[m")
+    print("\033[1;32m4-Server X\033[m")
     print("\033[1;33m(Q)Quitter\033[m")
     print("=" * 50)
     
