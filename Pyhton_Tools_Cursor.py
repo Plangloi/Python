@@ -6,8 +6,18 @@ import time
 
 
 out = 0
-
-# Main Menu ----------------------
+# ---------------Pause ----------------
+# def pause():
+#     input("Press Enter to continue!")
+#     affichagemenu()
+# ---------------Pause ----------------
+#Quitter ----------------------------
+def quiter():
+    print("Goodbye!")
+    global out
+    out = 1
+    # -------------------------Quitter
+# Main menu ---------------------------
 def affichagemenu():
     os.system('clear')
     print("=" * 20 + " Power PY " + "=" * 20)
@@ -30,13 +40,27 @@ def affichagemenu():
     else:
         print("Invalid Choice")
         pause()
+    # --------------------Main menu
 
-# Pause -------------------------
-def pause():
-    input("Press Enter to continue!")
-    affichagemenu()
+# --------------------User Tools ------- 
+def Usertools():
+    os.system('clear')
+    print("1-Verify user existence\n")
+    print("2-Get user UID\n")
+    print("\033[1;33m3-Main menu\033[m\n")
+    
+    usert = input("Choose 1-3: \n")
+    if usert == '1':
+        verifyuser()
+    elif usert == '2':
+        afficheruid()
+    elif usert == '3':
+        affichagemenu()
+    else:
+        print("Invalid choice")
+        pause()
 
-# Verify User exists in /etc/passwd --------------
+# Verify User exists in /etc/passwd ---- 
 def verifyuser():
     util = input("Username: ")
     if not util:
@@ -55,8 +79,7 @@ def verifyuser():
     except FileNotFoundError:
         print("File /etc/passwd not found")
     pause()
-
-# Print UID of User X--------------------
+# Get UID of User ----------------------
 def afficheruid():
     util = input("Username: ")
     os.system('clear')
@@ -64,31 +87,29 @@ def afficheruid():
     print(f"UID of {util} is: {uid}")
     pause()
 
-# Program Exit ----------------------
-def quiter():
-    print("Goodbye!")
-    global out
-    out = 1
-
-# User Tools menu ---------------------
-def Usertools():
+# Nmap ---------------------------------
+def nmap1():
     os.system('clear')
-    print("1-Verify user existence\n")
-    print("2-Get user UID\n")
+    print("1-Nmap install\n")
+    print("2-Scan open ports\n")
     print("\033[1;33m3-Main menu\033[m\n")
     
-    usert = input("Choose 1-3: \n")
-    if usert == '1':
-        verifyuser()
-    elif usert == '2':
-        afficheruid()
-    elif usert == '3':
+    netstatchoix = input("Choose 1-3: ")
+    if netstatchoix == '1':
+        os.system('apt install nmap')
+        pause()
+    elif netstatchoix == '2':
+        target = input("Target IP (default 192.168.1.1/24): ") or '192.168.1.1/24'
+        os.system(f'nmap {target}')
+        pause()
+    elif netstatchoix == '3':
         affichagemenu()
     else:
         print("Invalid choice")
         pause()
+    # --------------------Nmap
 
-# Menu SSH --------------------------
+# SSH ----------------------------------
 def ssh1():
     os.system('clear')
     print("1-SSH install\n")
@@ -129,33 +150,14 @@ def ssh1():
                 affichagemenu()
         case '4':
             affichagemenu()
+        case _:
+            print("Invalid choice")
+            pause()
+    # --------------------SSH
 
-# Menu Nmap ------------------------
-def nmap1():
-    os.system('clear')
-    print("1-Nmap install\n")
-    print("2-Scan open ports\n")
-    print("\033[1;33m3-Main menu\033[m\n")
-    
-    netstatchoix = input("Choose 1-3: ")
-    if netstatchoix == '1':
-        os.system('apt install nmap')
-        pause()
-    elif netstatchoix == '2':
-        target = input("Target IP (default 192.168.1.1/24): ") or '192.168.1.1/24'
-        os.system(f'nmap {target}')
-        pause()
-    elif netstatchoix == '3':
-        affichagemenu()
-    else:
-        print("Invalid choice")
-        pause()
-
-# Main function --------------------
 def main1():
     while out == 0:
-        affichagemenu()
-        
+        affichagemenu()        
 def complete_path(text, state):
     """Tab completion function for file paths"""
     if '~' in text:
@@ -171,7 +173,6 @@ def complete_path(text, state):
     matches = glob.glob(os.path.join(dir_name, text + '*'))
     matches = [x + ('/' if os.path.isdir(x) else '') for x in matches]
     return matches[state] if state < len(matches) else None
-
 # Enable tab completion
 readline.set_completer_delims(' \t\n;')
 readline.parse_and_bind("tab: complete")
