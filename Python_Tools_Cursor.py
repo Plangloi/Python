@@ -129,11 +129,10 @@ def ssh1():
             os.system('systemctl start ssh')
             pause()
         case '3':
-            print("Option 3")
             print("1-Upload file\n")
             print("2-Download file\n")
             print("3-Main menu\n")
-            ssh1choix = input("Choose 1-5: ")
+            ssh1choix = input("Choose 1-3ipa: ")
             if ssh1choix == '1':
                 print("Upload file")
                 # Enable path completion for this input
@@ -147,6 +146,10 @@ def ssh1():
                 pause()
             elif ssh1choix == '2':
                 print("Download file")
+                User = input("Enter the username: ")
+                Ip_address = input("Enter the IP address: ")
+                path_remote = input("Enter the path to download the file: ")
+                os.system(f'scp {User}@{Ip_address}:{path_remote} .')
                 pause()
             elif ssh1choix == '3':
                 affichagemenu()
