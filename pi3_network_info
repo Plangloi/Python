@@ -1,0 +1,70 @@
+import subprocess
+import netifaces
+import time
+from datetime import datetime
+from board import SCL, SDA
+import busio
+from adafruit_ssd1306 import SSD1306_I2C
+from PIL import Image, ImageDraw, ImageFont
+
+# OLED setup
+i2c = busio.I2C(SCL, SDA)
+oled = SSD1306_I2C(128, 64, i2c)
+
+# Font (optional: change path to custom TTF)
+font = ImageFont.load_default()
+
+# Get local IP for a given interface
+def get_ip(interface):
+    try:
+        return netifaces.ifaddresses(interface)[netifaces.AF_INET][0]['addr']
+    except:
+        return "N/A"
+
+# Get default gateway
+def get_gateway():
+    try:
+        gws = netifaces.gateways()
+        return gws['default'][netifaces.AF_INET][0]
+    except:
+        return "N/A"
+
+# Get public IP
+def get_public_ip():
+    try:
+        return subprocess.getoutput("curl -s https://ipinfo.io/ip")
+    except:
+        return "N/A"
+
+# Scan LAN for active devices using arp-scan
+def scan_network():
+    try:
+        result = subprocess.check_output(['arp-scan', '-l', '--interface=eth0']).decode()
+        lines = result.splitlines()[2:-4]
+        return [line.split('\t')[0] for line in lines if line]
+    except Exception:
+        return []
+
+# Main loop
+while True:
+    eth_ip = get_ip("eth0")
+    wlan_ip = get_ip("wlan0")
+    gateway = get_gateway()
+    public_ip = get_public_ip()
+    devices = scan_network()
+
+    # Prepare OLED screen
+    image = Image.new("1", (oled.width, oled.height))
+    draw = ImageDraw.Draw(image)
+    now = datetime.now().strftime('%H:%M:%S')
+
+    draw.text((0, 0),  f"🧠Net @ {now}", font=font, fill=255)
+    draw.text((0, 10), f"ETH: {eth_ip}", font=font, fill=255)
+    draw.text((0, 20), f"WLAN: {wlan_ip}", font=font, fill=255)
+    draw.text((0, 30), f"GW:   {gateway}", font=font, fill=255)
+    draw.text((0, 40), f"Pub:  {public_ip}", font=font, fill=255)
+    draw.text((0, 50), f"Dev:  {len(devices)}", font=font, fill=255)
+
+    oled.image(image)
+    oled.show()
+    time.sleep(15)
