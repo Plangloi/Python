@@ -1,8 +1,19 @@
+"""
+Power PY - Python Tools
+This script provides various system tools such as user management, network information, SSH functionalities, and a simple HTTP server.
+For Linux systems, it includes functionalities like verifying user existence, getting user UID, scanning networks with Nmap, managing SSH connections, and running a simple HTTP server.
+"""
+
 import os
 import readline
 import glob
 import subprocess
 import time
+import socket
+import uuid
+import psutil
+import requests
+
 
 
 out = 0
@@ -10,29 +21,35 @@ out = 0
 def pause():
     input("Press Enter to continue!")
     affichagemenu()
-# ---------------Pause ----------------
+
+
+
 #Quitter ----------------------------
 def quitter():
     print("Goodbye!")
     global out
     out = 1
-    # -------------------------Quitter
+
+
 # Main menu ---------------------------
 def affichagemenu():
     os.system('clear')
     print("=" * 20 + " Power PY " + "=" * 20)
     print("\033[1;32m1-User Tools\033[m")
-    print("\033[1;32m2-Nmap\033[m")
+    print("\033[1;32m2-Network Info\033[m")
     print("\033[1;32m3-SSH\033[m")
     print("\033[1;32m4-Server X\033[m")
     print("\033[1;33m(Q)Quitter\033[m")
     print("=" * 50)
+    #----------------------------------------
+
+
     
     choix = input("Enter your choice: ")
     if choix == '1':
         Usertools()
     elif choix == '2':
-        nmap1()
+        NetworkInfo()
     elif choix == '3':
         ssh1()
     elif choix == '4':
@@ -42,7 +59,8 @@ def affichagemenu():
     else:
         print("Invalid Choice")
         pause()
-    # --------------------Main menu
+
+
 
 # --------------------User Tools ------- 
 def Usertools():
@@ -50,17 +68,22 @@ def Usertools():
     print("1-Verify user existence\n")
     print("2-Get user UID\n")
     print("\033[1;33m3-Main menu\033[m\n")
-    
-    usert = input("Choose 1-3: \n")
-    if usert == '1':
-        verifyuser()
-    elif usert == '2':
-        afficheruid()
-    elif usert == '3':
-        affichagemenu()
-    else:
-        print("Invalid choice")
-        pause()
+    #---------------------------------------
+
+
+
+
+    Usertools_choix = input("Choose 1-3: \n")
+    match Usertools_choix:
+        case '1':
+            verifyuser()
+        case '2':
+            afficheruid()
+        case '3':
+            affichagemenu()
+        case _:
+            print("Invalid choice")
+            pause()
 
 # Verify User exists in /etc/passwd ---- 
 def verifyuser():
@@ -81,7 +104,10 @@ def verifyuser():
     except FileNotFoundError:
         print("File /etc/passwd not found")
     pause()
-# Get UID of User ----------------------
+
+
+
+
 def afficheruid():
     util = input("Username: ")
     os.system('clear')
@@ -89,13 +115,57 @@ def afficheruid():
     print(f"UID of {util} is: {uid}")
     pause()
 
+# --------------------------------- Network Info -----------------------------
+
+def get_hostname():
+    return socket.gethostname()
+
+def get_local_ip():
+    try:
+        return socket.gethostbyname(get_hostname()) #
+    except socket.gaierror:
+        return "Unable to get Local IP"
+
+def get_public_ip():
+    try:
+        response = requests.get('https://api.ipify.org?format=text', timeout=5)
+        return response.text
+    except requests.RequestException:
+        return "Unable to fetch Public IP"
+
+def get_mac_address():
+    mac = uuid.getnode()
+    return ':'.join(("%012X" % mac)[i:i+2] for i in range(0, 12, 2))
+
+def get_network_interfaces():
+    interfaces = {}
+    for interface_name, interface_addresses in psutil.net_if_addrs().items():
+        interfaces[interface_name] = []
+        for address in interface_addresses:
+            if address.family == socket.AF_INET:
+                interfaces[interface_name].append(address.address)
+    return interfaces
+
+def display_network_info():
+    print("Hostname       :", get_hostname())
+    print("Local IP       :", get_local_ip())
+    print("Public IP      :", get_public_ip())
+    print("MAC Address    :", get_mac_address())
+    print("\nNetwork Interfaces and IPs:")
+    interfaces = get_network_interfaces()
+    for name, ips in interfaces.items():
+        print(f" - {name}: {', '.join(ips)}")
+
 # Nmap ---------------------------------
 def nmap1():
     os.system('clear')
     print("1-Nmap install\n")
     print("2-Scan open ports\n")
     print("\033[1;33m3-Main menu\033[m\n")
-    
+    #---------------------------------------
+
+
+
     netstatchoix = input("Choose 1-3: ")
     if netstatchoix == '1':
         os.system('apt install nmap')
@@ -109,7 +179,35 @@ def nmap1():
     else:
         print("Invalid choice")
         pause()
-    # --------------------Nmap
+
+def NetworkInfo():
+    os.system('clear')
+    print("1-Nmap\n")
+    print("2-Check network interfaces\n")
+    print("\033[1;33m3-Main menu\033[m\n")
+    #---------------------------------------
+
+
+
+    NetworkInfo_choix = input("Choose 1-2: ")
+    match NetworkInfo_choix:
+        case '1':
+            if NetworkInfo_choix == '1':
+                print("Network scanning with Nmap")
+                
+
+        case '2':
+            if NetworkInfo_choix == '2':
+                os.system('clear')
+                display_network_info()    
+                print("Checking network interfaces")
+                pause()
+
+                
+    
+        case '3':
+            affichagemenu()
+
 
 # SSH ----------------------------------
 def ssh1():
@@ -118,7 +216,11 @@ def ssh1():
     print("2-SSH On\n")
     print("3-File Transfer\n")
     print("\033[1;33m4-Main menu\033[m\n")
-    
+#---------------------------------------  
+
+
+
+
     ssh1choix = input("Choose 1-4: ")
     match ssh1choix:
         case '1':
@@ -158,7 +260,11 @@ def ssh1():
         case _:
             print("Invalid choice")
             pause()
-    # --------------------SSH
+            
+            
+
+
+
 # Server X ----------------------------
 def serverx():
     time_hold = input("Time to run ?/(Minute) ")
@@ -177,7 +283,14 @@ def serverx():
         server_process.terminate()
     except ValueError:
         print("Please enter a valid number for minutes")
-# --------------------Main menu
+
+
+
+
+
+
+
+# --------------------Main menu------------- 
 def main1():
     while out == 0:
         affichagemenu()        
