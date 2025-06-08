@@ -1,0 +1,245 @@
+J'aime jouer.
+Le chat est roux.
+Maman fait un gâteau.
+Papa lit une histoire.
+Le soleil brille.
+L'oiseau chante.
+Le chien aboie.
+La fleur est belle.
+L'arbre est grand.
+La maison est bleue.
+La voiture roule vite.
+Le ballon rebondit.
+Le livre est ouvert.
+Le crayon dessine.
+La gomme efface.
+Les ciseaux coupent.
+La colle colle.
+Le vélo roule.
+La trottinette glisse.
+Le toboggan est amusant.
+La balançoire monte et descend.
+Le bac à sable est plein de sable.
+Le seau est rempli d'eau.
+La pelle creuse un trou.
+Le râteau ratisse les feuilles.
+Le ballon de foot est rond.
+La raquette de tennis frappe la balle.
+La piscine est rafraîchissante.
+La plage est ensoleillée.
+La mer est bleue.
+Le bateau flotte sur l'eau.
+Le poisson nage dans la mer.
+Le coquillage est joli.
+Le château de sable est grand.
+Le soleil se couche.
+La lune apparaît.
+Les étoiles brillent.
+Le ciel est étoilé.
+La nuit est noire.
+Le lit est confortable.
+L'oreiller est moelleux.
+La couverture est chaude.
+Les yeux se ferment.
+Le sommeil arrive.
+Les rêves commencent.
+Le matin se lève.
+Le soleil se réveille.
+Les oiseaux chantent.
+Le petit déjeuner est prêt.
+Le lait est chaud.
+Le pain est frais.
+Le beurre fond.
+La confiture est sucrée.
+Les céréales craquent.
+Le jus d'orange est pressé.
+Les dents sont brossées.
+Les cheveux sont peignés.
+Les vêtements sont mis.
+Les chaussures sont lacées.
+Le cartable est prêt.
+L'école commence.
+La maîtresse explique.
+Les élèves écoutent.
+Les crayons écrivent.
+Les cahiers se remplissent.
+La récréation sonne.
+Les enfants jouent.
+Le goûter est délicieux.
+Les devoirs sont faits.
+Le dîner est servi.
+La famille se réunit.
+Les histoires sont racontées.
+Les rires fusent.
+Les câlins sont donnés.
+Les bisous sont envoyés.
+La journée se termine.
+La nuit tombe.
+La lune veille.
+Les étoiles scintillent.
+Le sommeil revient.
+Les rêves reprennent.
+Demain est un autre jour.
+Les aventures continuent.
+Les découvertes sont faites.
+Les amis sont précieux.
+La famille est importante.
+L'amour est partout.
+La vie est belle.
+Chaque jour est unique.
+Le bonheur est simple.
+Les sourires sont contagieux.
+Les larmes sont parfois nécessaires.
+Les émotions sont fortes.
+Les sentiments sont sincères.
+Les mots sont magiques.
+Les histoires sont captivantes.
+Les livres sont des trésors.
+La lecture est un plaisir.
+L'imagination est sans limite.
+Les rêves deviennent réalité.
+
+
+Je suis content quand je joue avec mes amis.
+Je suis triste quand je dois ranger mes jouets.
+J'ai peur du noir, mais maman me rassure.
+Je suis fier quand je réussis à faire quelque chose de difficile.
+Je suis fâché quand mon frère me prend mes affaires.
+J'aime faire des câlins à mes parents.
+
+Le ciel est bleu et l'herbe est verte.
+Les bananes sont jaunes et les fraises sont rouges.
+Le soleil est rond et les nuages sont blancs.
+Mon ballon est orange et ma voiture est bleue.
+Les triangles ont trois côtés et les carrés en ont quatre.
+J'aime mélanger les couleurs pour faire de nouvelles couleurs.
+
+Je mets mon manteau et mes bottes quand il fait froid.
+J'aime porter des robes et des jupes quand il fait chaud.
+Je mets mon chapeau pour me protéger du soleil.
+J'aime choisir mes vêtements le matin.
+Mes chaussures sont rouges et mes chaussettes sont bleues.
+Je porte des lunettes pour mieux voir.
+
+J'aime manger des fruits et des légumes.
+Je bois du lait et du jus d'orange.
+Les pizzas et les hamburgers sont mes plats préférés.
+J'aime manger de la crème glacée quand il fait chaud.
+Le pain et le fromage sont délicieux ensemble.
+J'aime aider maman à préparer le souper.
+
+Je vais au parc avec mes parents le weekend.
+J'aime aller à la bibliothèque pour choisir des livres.
+On va parfois au zoo pour voir les animaux.
+J'ai déjà pris l'avion pour aller en vacances.
+Je voudrais visiter le château Frontenac à Québec.
+Je rêve d'aller voir la Tour Eiffel à Paris.
+
+Pourquoi les poissons vivent-ils dans l'eau salée? Parce que le poivre les fait éternuer!
+Quel est le comble pour un jardinier? De tomber dans les pommes!
+Pourquoi les oiseaux volent-ils vers le sud en hiver? Parce que c'est trop loin pour marcher!
+Comment appelle-t-on un dinosaure qui dort? Un ronflosaurus!
+
+Bonjour
+Au revoir
+Oui
+Non
+Encore
+Plus
+Moi
+Toi
+Lui
+Elle
+Ça
+Ici
+Là
+
+
+Maman ici
+Papa là
+Beau chat
+Gentil chien
+Gros toutou
+Joli bébé
+Bonne nuit
+À demain
+Bisou maman
+Câlin papa
+
+J'ai faim
+Je suis fatigué
+Je veux jouer
+Je t'aime maman
+Je t'aime papa
+C'est mon jouet
+Regarde ça!
+Viens ici!
+On joue ensemble?
+C'est à moi!
+
+J'aime mon doudou
+Je veux manger encore
+Je vais faire dodo
+Tu veux jouer avec moi?
+Je peux avoir un câlin?
+C'est un beau dessin
+On va au parc?
+Je veux aller dehors
+Regarde, un oiseau!
+J'ai trouvé une fleur!
+
+Coucou!
+J'ai soif.
+J'ai chaud.
+J'ai froid.
+C'est bon!
+C'est beau!
+Ça fait mal.
+J'ai peur.
+Je suis content.
+Merci beaucoup!
+
+Je veux aller jouer dehors.
+Je peux avoir un verre d'eau?
+Regarde, j'ai fait un dessin!
+J'ai vu un écureuil dans l'arbre.
+Je vais faire un gros câlin à maman.
+Tu veux venir jouer à la maison?
+On peut aller au parc après le dîner?
+J'ai trouvé une belle roche dans le jardin.
+J'aime beaucoup manger des fraises.
+Je suis content de te voir!
+
+J'ai perdu mon jouet.
+Je veux mettre mes bottes rouges.
+On va faire un gâteau au chocolat?
+Je peux regarder un dessin animé?
+J'ai besoin d'aide pour attacher mes souliers.
+Je vais construire un château avec mes blocs.
+Tu peux me lire une histoire s'il te plaît?
+J'ai vu un papillon dans le jardin.
+Je veux aller faire du vélo avec toi.
+Je vais te montrer quelque chose de rigolo.
+
+
+Tu aimes les pommes?
+On peut aller jouer au ballon?
+Tu veux venir voir mon dessin?
+C'est quoi ton animal préféré?
+Tu as déjà vu un arc-en-ciel?
+Tu sais compter jusqu'à dix?
+Tu veux m'aider à faire un puzzle?
+Qu'est-ce que tu veux manger pour le souper?
+On peut aller faire un tour de voiture?
+Tu veux venir écouter une histoire avec moi?
+
+Je voudrais un chien.
+J'aimerais apprendre à voler.
+Je veux devenir pompier quand je serai grand.
+J'aimerais avoir un vélo comme celui-là.
+Je veux faire un voyage en bateau.
+J'aimerais aller au zoo voir les lions.
+Je voudrais avoir une fête d'anniversaire avec tous mes amis.
+Je veux construire une cabane dans les arbres.
+J'aimerais apprendre à jouer de la guitare.
+Je veux aller camper avec ma famille.
