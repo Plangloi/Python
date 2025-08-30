@@ -1,3 +1,6 @@
+# pip install scapy openpyxl netifaces
+
+
 import os
 import socket
 import netifaces
