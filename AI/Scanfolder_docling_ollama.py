@@ -1,15 +1,8 @@
-# AI/Scanfolder_docling_ollama.py
-# Script to convert PDFs in project folders to Markdown using Docling
-# and generate project summaries using Ollama AI.
-
-
 import os
 import subprocess
 from pathlib import Path
 from docling.document_converter import DocumentConverter
 
-# This script processes all project folders in a specified base path.
-# For each project folder, it converts all PDF files to Markdown format
 def convert_pdfs_to_markdown(project_path):
     """
     Convert all PDF files in a project folder to Markdown using Docling
@@ -36,19 +29,12 @@ def convert_pdfs_to_markdown(project_path):
         try:
             print(f"Converting {pdf_file.name}...")
             
-            # Convert PDF to markdown if md not already exists
+            # Convert PDF to markdown
+            result = converter.convert(str(pdf_file))
+            markdown_content = result.document.export_to_markdown()
+            
+            # Create markdown file path
             md_file = pdf_file.with_suffix('.md')
-            if not md_file.exists():
-                result = converter.convert(str(pdf_file))
-                markdown_content = result.document.export_to_markdown()
-                
-                # Write markdown content
-                with open(md_file, 'w', encoding='utf-8') as f:
-                    f.write(markdown_content)
-                
-                print(f"✓ Created {md_file.name}")
-            else:
-                print(f"✓ Markdown file already exists for {pdf_file.name}, skipping conversion.")
             
             # Write markdown content
             with open(md_file, 'w', encoding='utf-8') as f:
@@ -99,10 +85,10 @@ Please provide a clear and concise summary:"""
     try:
         # Call Ollama using subprocess
         result = subprocess.run(
-            ['ollama', 'run', 'gemma3:4b', prompt],  # Change 'llama2' to your preferred model
+            ['ollama', 'run', 'llama2', prompt],  # Change 'llama2' to your preferred model
             capture_output=True,
             text=True,
-            timeout=300  # 5 minute timeout
+            timeout=1000  # 16 minute timeout
         )
         
         if result.returncode == 0:
@@ -163,14 +149,21 @@ def process_projects(base_path):
         print(f"\nCompleted processing {project.name}")
 
 if __name__ == "__main__":
-    # Example usage
-    base_path = input("Enter the base path containing project folders: ").strip()
-    
-    if not base_path:
-        base_path = "."  # Use current directory if none provided
-    
-    process_projects(base_path)
-    
+    # Example usage with optional CLI args
+    parser = argparse.ArgumentParser(description="Convert PDFs to Markdown and generate summaries using Ollama.")
+    parser.add_argument("base_path", nargs="?", help="Base path containing project folders. If omitted you'll be prompted.")
+    parser.add_argument("--timeout", type=int, default=300, help="Ollama request timeout in seconds (default 300). Increase if model needs more time.")
+    args = parser.parse_args()
+
+    if args.base_path:
+        base_path = args.base_path
+    else:
+        base_path = input("Enter the base path containing project folders: ").strip()
+        if not base_path:
+            base_path = "."  # Use current directory if none provided
+
+    process_projects(base_path, ollama_timeout=args.timeout)
+
     print("\n" + "="*60)
     print("All projects processed!")
     print("="*60)
