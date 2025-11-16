@@ -36,12 +36,19 @@ def convert_pdfs_to_markdown(project_path):
         try:
             print(f"Converting {pdf_file.name}...")
             
-            # Convert PDF to markdown
-            result = converter.convert(str(pdf_file))
-            markdown_content = result.document.export_to_markdown()
-            
-            # Create markdown file path
+            # Convert PDF to markdown if md not already exists
             md_file = pdf_file.with_suffix('.md')
+            if not md_file.exists():
+                result = converter.convert(str(pdf_file))
+                markdown_content = result.document.export_to_markdown()
+                
+                # Write markdown content
+                with open(md_file, 'w', encoding='utf-8') as f:
+                    f.write(markdown_content)
+                
+                print(f"✓ Created {md_file.name}")
+            else:
+                print(f"✓ Markdown file already exists for {pdf_file.name}, skipping conversion.")
             
             # Write markdown content
             with open(md_file, 'w', encoding='utf-8') as f:
