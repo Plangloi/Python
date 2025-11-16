@@ -92,7 +92,7 @@ Please provide a clear and concise summary:"""
     try:
         # Call Ollama using subprocess
         result = subprocess.run(
-            ['ollama', 'run', 'llama2', prompt],  # Change 'llama2' to your preferred model
+            ['ollama', 'run', 'gemma3:4b', prompt],  # Change 'llama2' to your preferred model
             capture_output=True,
             text=True,
             timeout=300  # 5 minute timeout
